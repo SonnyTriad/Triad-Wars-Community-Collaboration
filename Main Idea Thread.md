@@ -106,7 +106,9 @@ to come! The branch the devs have confirmed will have to do more with smuggling,
 - *Turf and Turf Manager:*
 
  1. (3)[Semi-Confirmed] Larger Turf ->
- With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new rackets. Racket slots added into turf, how many depends on the number of new rackets. Devs have hinted at this, though there is no official statement as of yet.
+ With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new
+rackets. Racket slots added into turf, how many depends on the number of new rackets. Devs have hinted at this, though there
+is no official statement as of yet.
  
 - *External Applications and Websites/Forums:*
 
