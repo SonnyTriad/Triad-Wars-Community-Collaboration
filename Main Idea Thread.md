@@ -1,7 +1,7 @@
 # Triad-Wars-Community-Collaboration
 Ideas I have seen requested many times! Helping out the devs with the sorting! - Sonny
 Special Thanks to BridgetKFisher for making this possible :) Also a big thanks to Handsome-Jack and CrowntTheJules for some
-of the ideas here below!
+of the ideas here below! Keep in mind many of these suggestions will not be added in (if they even are) for a long time.
 
 
 First and foremost I have no legal claims and am not interested in claiming any of the ideas I put here, they are merely
@@ -284,6 +284,12 @@ to ally with another gang, which will warn members that they are about to raid a
 still break the alliance if they choose), hopefully keeping the peace between the two gangs. An option for a rival would be
 great too. The two gangs would go out of their way to sabotage eachother, constantly raiding, ambushing and being pains in
 the backside until one side sumbits.
+
+ 4. (4)[Unconfirmed] Ranks within the gang ->
+Once triads become integrated into the game, leaders of a gang should be able to: promote, demote and recruit more members of
+the gang. There should be ranks, at least 10 or so with a hierarchy of power, much like the real triads. The lowest rank will
+hold majority of the members, with the number of members in higher ranks lessening until the top two ranks, equivalent to
+right hand men and leader should respectively have 2 and 1 member. 
 
 - *Social Interaction and Romances:*
 - 
