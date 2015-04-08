@@ -13,7 +13,6 @@ Updates and new ideas: New ideas Will briefly mentioned here, and confirmation o
 - Character Customization and Loadout:
 
  1. (2)[Confirmed] Female Character ->
-
 This has been requested multiple times by the Community as it will
 allow the female playerbase to play as their gender, expanding the story possibilities into the Triad Wars Universe. Although
 this is confirmed, A lot of work must be done first, such as voice actors, new animations, playermodel etc. "already on our
