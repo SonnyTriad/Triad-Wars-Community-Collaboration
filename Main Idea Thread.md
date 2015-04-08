@@ -115,7 +115,7 @@ warehouse. They would also be able to buy a select amount. No confirmation yet.
  Being able to make your own hideout unique and 'yours' is almost as important as your character itself. Furniture layout,
 furniture options and perhaps even purchasable furniture in the future will be a possibility. Personally this is one of the
 things I am looking forward to he most in TW. Raiding someone and seeing their unique character and home will leave an
-impression, this is just another option in which TW can reward players for their creativity, by rewarding them with the
+impression, this is just another option in which TW can reward players for their creativity, by giving them the
 chance to make a home to be able to show off. Unconfirmed so far, but we can always hope :).
 
  2. (4)[Unconfirme
