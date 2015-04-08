@@ -8,7 +8,7 @@ Priotity System: I will class ideas from a (1) to a (5). 1 being detrimental to 
 
 Updates and new ideas: New ideas Will briefly mentioned here, and confirmation or cancellation of a suggestion (current version 1.0)
 
-- THREAD STARTS HERE!
+- **THREAD STARTS HERE!**
 
 - Character Customization and Loadout:
 
