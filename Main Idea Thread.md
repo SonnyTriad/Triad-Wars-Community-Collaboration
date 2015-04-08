@@ -22,6 +22,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 - *Character Customization and Loadout:*
 -
+
  1. (2)[Confirmed] Female Character ->
 This has been requested multiple times by the Community as it will
 allow the playerbase to play as a female, expanding the story possibilities into the Triad Wars Universe. Although
@@ -50,9 +51,11 @@ be included If I am not wrong.
 
 - *Vehicles and Customization:*
 -
+
  1. (4)[Unconfirmed] Greater range of Vehicles ->
 Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
-doesn't really matter at the current time. Once fine tuning of driving controls is fixed, this should move further up in
+doesn't really matter at the current time. One thing that will need to be added though, is 2-3 cars which can be bought with
+a large sum of cash rather than gold. Once fine tuning of driving controls is fixed, this should move further up in
 priority. No words from the devs yet.
 
  2. (3)[Unconfirmed] Modifying Vehicles ->
@@ -64,10 +67,13 @@ place before any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 
 dev on this yet!
 
  3. (5)[Unconfirmed] Pink Slips ->
-If racing is added in the future, you would be able to bet many things (see below), however if both parties agree, a high profile race will bet on a pink slip (the ownership of the losers car). Racing must be implemented before this can be considered.
+If racing is added in the future, you would be able to bet many things (see below), however if both parties agree, a high
+profile race will bet on a pink slip (the ownership of the losers car). Racing must be implemented before this can be
+considered.
 
 - *Weapons and Customization:*
 - 
+
  1. (3)[Unconfirmed] Greater range of weapons ->
 To be at home in the Triad Wars atmosphere. we need more weapons, some makeshift weapons that give of that thug vibe, some of
 which the elite members or professional hitmen would use. (:P). To add to this atmosphere melee weapons such as steel chains,
@@ -83,6 +89,7 @@ stocks. No words from the Devs on this yet.
 
 - *Balances, Tuning and/or Reworks:*
 -
+
  1. (1)[Unconfirmed] Fine tuning of driving and running ->
 Running, which seems to be a lot better with the controller (understandably), can be quite frustrating on the keyboard. One
 of the major issues is the autoclimb/vault, which can run you into walls, places you don't want to go, and even get you
@@ -112,7 +119,8 @@ Just a nice feature to have and a time saver. Players would be able to sell all 
 warehouse. They would also be able to buy a select amount. No confirmation yet.
 
  6. (3)[Unconfirmed] Larger friends list and ability to cancel pending requests ->
-In the universe of TW why limit yourself to only a certain amount of contacts. Friends list should be expanded and the ability to cancel pending friend requests also would be useful (ie Accidently added wrong username, or added an AI).
+In the universe of TW why limit yourself to only a certain amount of contacts. Friends list should be expanded and the
+ability to cancel pending friend requests also would be useful (ie Accidently added wrong username, or added an AI). No response yet.
 
 - *Safehouse and Customization:*
 - 
@@ -123,7 +131,9 @@ furniture options and perhaps even purchasable furniture in the future will be a
 things I am looking forward to he most in TW. Raiding someone and seeing their unique character and home will leave an
 impression, this is just another option in which TW can reward players for their creativity, by giving them the
 chance to make a home to be able to show off. Coop experience later on could also allow other users to visit players
-safehouses. Unconfirmed so far, but we can always hope :). 
+safehouses. Although this would require another instance for the safehouse, it would then be pssoble to add multiple floors
+(would cost alot) to the safehouse, giving us the option for some themed rooms (bedroom, bathroom, gym, etc). Unconfirmed so
+far, but we can always hope :). 
 
  2. (4)[Unconfirmed] Broken Elevator upgraded to Personal Garage ->
 A personal garage where you can display a set number of cars as well as a nice area to loiter. As well as the safehouse, the
@@ -140,8 +150,16 @@ The community seems to agree that we need one for drugs (cooking, selling, tradi
 parlour, Brothel, XXX store). One for human trafficking (Organ harvesting, dealing and Black market trades). Hopefully more
 to come! The branch the devs have confirmed will have to do more with smuggling, perhaps including a portion in water (boat).
 
+ 2. (3)[Unconfirmed] Stacking Rackets ->
+Being able to build up rather than across would be awesome, and really shot the expansion of your turf. Quite a few users
+have requested this, and personally I think it's an awesome idea. The amount of stacked rackets you can create should be
+limited (only 2-3 stacked small or 1 medium building) it should also cost double the amount it would to build and upgrade on
+a fresh turf building slot. It would also be quite interesting if small buffs were given to buildings that related to
+eachother being stacked. (for example a smuggling building stacked on a fishing building would give 5% more profit). No response yet as i assume devs will be busy with the release of the next racket branch.
+
 - *Turf and Turf Manager:*
 -
+
  1. (3)[Semi-Confirmed] Larger Turf ->
 With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new
 rackets. Racket slots added into turf, how many depends on the number of new rackets. Devs have hinted at this, though there
@@ -155,6 +173,7 @@ confirmation yet.
  
 - *External Applications and Websites/Forums:*
 -
+
  1. (2)[Unconfirmed] Phone App for Managing Turf ->
 People may be busy with work or real life issues, not able to log on, however this app will allow people to manage their turf
 away from the pc (obviously they are still able to be raided and cannot raid whilst on their phone). This has been requested
@@ -167,6 +186,7 @@ word from the devs yet.
 
 - *Chat and Social hub:*
 -
+
  1. (5)[Unconfirmed] Ability to take selfies ->
 A very non-essential yet fun and immersive feature that could be implemented into the TW world. Just raided someones base?
 Take a selfie of yourself smiling over their dead goons and send the picture straight to them!. This could also be used with
@@ -184,20 +204,31 @@ don't see why not, however your message menu should not pause the game, giving y
 symbol next to your friends name would let you know they are busy and might take a while to respond. No response as of yet
 from the dev team.
 
+ 4. (3)[Unconfirmed] Larger friends list ->
+(see above in rework section)
+
+ 5. (4)[Unconfirmed] Biography(Background story) ->
+Just a small feature to be added to someones profile that will help immerse the player into the world of TW. Good for rp and just having fun in TW, can't really see any downside from it. No response yet.
+
 - *Hobbies and Favors:*
 - 
+
 - *Store and Events:*
 - 
+
  1. (5)[Semi-Confirmed] Holiday or event themed items ->
-Items, events and objects that represent specific events that will temporarily be available for purchase
+Items, events and objects that represent specific events that will temporarily be available for purchase. From small things, like buying mistletoe for your safehouse, or something big like an outfit to dress up as winston or wei for halloween. This will help keep things fresh, without breaking the lore of TW and bringing in a decent profit for the devs to fund the game. No confirmation of any specific item yet.
+
 - *Coop and other Player interaction:*
 - 
+
  1. (1)[Confirmed] Coop Raids ->
 Raiding people with a friend, what not to love? Probably the 1. most requested feature in TW, and the devs have granted our
 wish. This is confirmed, and in the works. Details of what will change in the coop, how favors will function and if it will
 influence rewards are not yet revealed. Sit tight for more info.
 - *Map and Zones:*
 - 
+
 - *Bug Fixes:*
 - 
 
@@ -208,13 +239,16 @@ No words from the devs yet.
 
 - *Triad and NPCS:*
 - 
+
 1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
 Kissing animation is needed, as npcs will rub their faces together (lol). Perhaps a few more facial expressions, laughing
 etc. Other than that I haven't found any animations that need fixes yet.
 - *Social Interaction and Romances:*
 - 
+
 - *Missions and Gamemodes (Raid included):*
 - 
+
 - *Community Input:*
 - 
 
