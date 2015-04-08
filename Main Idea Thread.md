@@ -162,6 +162,8 @@ cannot be done, a status next to your friends name letting you know their in a r
 - 
 - *Coop and other Player interaction:*
 - 
+ 1. (1)[Confirmed] Coop Raids ->
+Raiding people with a friend, what not to love? Probably the 1. most requested feature in TW, and the devs have granted our wish. This is confirmed, and in the works. Details of what will change in the coop, how favors will function and if it will influence rewards are not yet revealed. Sit tight for more info.
 - *Map and Zones:*
 - 
 - *Bug Fixes:*
