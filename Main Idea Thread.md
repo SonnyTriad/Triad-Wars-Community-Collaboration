@@ -19,7 +19,8 @@ version 1.0)
 
 - **THREAD STARTS HERE!**
 
-- Character Customization and Loadout:
+
+- *Character Customization and Loadout:*
 
  1. (2)[Confirmed] Female Character ->
 This has been requested multiple times by the Community as it will
@@ -48,17 +49,22 @@ styles in its entirety yet. If you count the fighting styles already in the game
 be included If I am not wrong.
 
 - Vehicles and Customization:
+
  1. (4)[Unconfirmed} Greater range of Vehicles ->
 Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
 doesn't really matter at the current time. Once fine tuning of driving controls is fixed, this should move further up in
 priority. No words from the devs yet.
+
  2. (3)[Unconfirmed] Modifying Vehicles ->
 Another highly requested addition by the community, being able modify and make your own one of a kind vehicle (appearance
 wise) would really help the world of TW expand. Paint jobs, Applying custom emblems (see at end of thread), Changing rims,
 and all perfomance mods should eventually be available, to have full control of your ride. Performance mods should not only
-have slight appearance changes (e.g NOS in back seat), but apply changes to the car. Balancing will need to take place before
-any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). 
+have slight appearance changes (e.g NOS in back seat), but apply changes to the cars performance. Balancing will need to take
+place before any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). No words from the
+dev on this yet!
+
 - Weapons and Customization:
+
 - Balances, Tuning and/or Reworks:
 
  1. (1)[Unconfirmed] Fine tuning of driving and running ->
