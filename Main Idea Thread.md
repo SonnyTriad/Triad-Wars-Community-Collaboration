@@ -50,7 +50,7 @@ be included If I am not wrong.
 
 - *Vehicles and Customization:*
 
- 1. (4)[Unconfirmed} Greater range of Vehicles ->
+ 1. (4)[Unconfirmed] Greater range of Vehicles ->
 Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
 doesn't really matter at the current time. Once fine tuning of driving controls is fixed, this should move further up in
 priority. No words from the devs yet.
@@ -64,6 +64,19 @@ place before any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 
 dev on this yet!
 
 - *Weapons and Customization:*
+- 
+ 1. (3)[Unconfirmed] Greater range of weapons ->
+To be at home in the Triad Wars atmosphere. we need more weapons, some makeshift weapons that give of that thug vibe, some of
+which the elite members or professional hitmen would use. (:P). To add to this atmosphere melee weapons such as steel chains,
+dual small kitchen knives, nunchucks, quarterstaff, sledgegammer, 2x4 wooden plank and perhaps brass knuckles are just some
+of the many weapons that could enhance the TW world. There are currently not many requests for ranged weapons, but the two I
+saw requested, was a sawn off shotgun and duel wielding of pistols. No confirmation from the devs currently of upcoming
+weapons.
+
+ 2. (5)[Unconfirmed] Weapon Mods ->
+ Weapon mods don't seem to be essential in the TW universe or as needed as other content, but it would be nice to be able to
+customize your weapons with colors, decals and perhaps even some property changing mods, such as laser sights, muzzles and
+stocks. No words from the Devs on this yet.
 
 - *Balances, Tuning and/or Reworks:*
 
@@ -97,6 +110,7 @@ warehouse. They would also be able to buy a select amount. No confirmation yet.
 
 - *Safehouse and Customization:*
 - *Racket Tech Tree:*
+
  1. (3)[Confirmed] More Racket Branches ->
 A new racket branch should be coming next patch according to the devs. However, new trees ever now and then would be nice.
 The community seems to agree that we need one for drugs (cooking, selling, trading). One for the red light district (massage
