@@ -120,7 +120,8 @@ warehouse. They would also be able to buy a select amount. No confirmation yet.
 
  6. (3)[Unconfirmed] Larger friends list and ability to cancel pending requests ->
 In the universe of TW why limit yourself to only a certain amount of contacts. Friends list should be expanded and the
-ability to cancel pending friend requests also would be useful (ie Accidently added wrong username, or added an AI). No response yet.
+ability to cancel pending friend requests also would be useful (ie Accidently added wrong username, or added an AI). No
+response yet.
 
 - *Safehouse and Customization:*
 - 
@@ -172,7 +173,11 @@ style of their rackets and warehouse (perhaps even the outside of the safehouse)
 traditional chinese, players should have a choice of what theme they'd like for their turf. Another original idea, so no
 confirmation yet.
 
- 3. (4)[Unconfirmed] Turf for triad -> There should be a large turf for each triad, which has many features that will enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless trading between the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet confirmed.
+ 3. (4)[Unconfirmed] Turf for triad -> There should be a large turf for each triad, which has many features that will
+enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless
+tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet
+confirmed.
+
 - *External Applications and Websites/Forums:*
 -
 
@@ -215,9 +220,25 @@ just having fun in TW, can't really see any downside from it. No response yet.
 
 - *Hobbies and Favours:*
 - 
- 1. (2) Proper Timer for Favours ->
+ 1. (2)[Unconfirmed] Proper Timer for Favours ->
 Rather than just showing the card is active (e.g. card a (72 hours) ), show the remaining time left on it (e.g. card A, 72
 hours, 10 hours remaining). 
+
+ 2. (4)[Unconfirmed] Hobbie buildings ->
+Buildings that contain various fun things to do (coop compatible). Some of these buildings would be Karaoke (sing to your
+hearts content, with or without friends), Gambling (A gambling house to set wagers for races, fight club, and perhaps some
+random casino games like poker), night club to dance and listen to music (perhaps a player could stream live music).
+
+ 3. (4)[Unconfirmed] The Fight Club ->
+The fight club from the beloved Sleeping Dogs, but with a twist. Come to the fight club to practise your combos, new moves
+and spar npcs. But most importantly, Train your fighter. This all new addition to Fight Club will allow players to train
+their own npc, level him/her up and eventually fight another players npc (which can be watched and bet on). This will be sure
+to create a new renewed love the the fight club, Sifu Kwok would be proud!
+
+ 4. (5)[Unconfirmed] The Registry -> 
+If community content is accepted and begins taking shape, the monthly pol to accept new items to be added into the game will
+need to take place somewhere. The registry does that for you, showing the top 100 or so entries, vote for what you want in
+TW! No point adding this unless community content goes ahead.
 
 - *Store and Events:*
 - 
@@ -300,6 +321,9 @@ people trade, do coop raids, and whatever else in the future would be a great id
 loyalty bar are granted acess to favours to one another, that if their friend is being raided or ambushed they can choose to
 send a group of armed npcs to help out once per day, though they dont have to. (Can already see the potential drama :P).
 
+ 2. (4)[Unconfirmed] Romances ->
+Although this will offer no in game benefit, it would be nice to be able to romance other players (regardless of gender), with a relationship status showing in the players profile (if they choose to show it). Perhaps Stages of romance also (One Nigher - plaything - girlfriend/boyfriend - Soulmate). (Why couldn't winston get happily married *shakes fists at devs) It would also enhance any possible RP and just immerse people into the TW universe. No word from the devs yet.
+
 - *Missions and Gamemodes (Raid included):*
 - 
 
@@ -308,6 +332,13 @@ Add the posibility for random events whilst raiding (double chance when playing 
 with less than 30 seconds left, there will be a 20% chance that you have to escape from the police in your getaway car.
 Amnbushes are already implemented, however ambushes that can get you during raids should be a posibility if one of your
 rivals has a favour card for it. (not yet in game) Unanswered at the moment.
+
+ 2. (3)[Unconfirmed] Conquer ->
+In this gamemode (coop compatible) you focus on wiping out a small/weak defence in a specific are, then have to hold it against either attacking gang members, or a breach from the police (or both!) for a set period of time. Whilst not a huge gamechanger, gives players something to do when everythings on cooldown.
+
+ 3. (4)[Unconfirmed] Race ->
+Well.. What do you expect? It's a race! Options for a friendly race, betting cash and items, or if you really want to turn up the head, betting pink slips (ownership of your car). This can all be set at the Gambling house (hobbie buildings). Options for traffic on and off during this would be great too. I saw on a post (sorry cant remember your name) a topic about a footrace with implemented parkour, this also sounds great, and can be bet on the same way (just not with pink slips).
+
 
 - *Community Input:*
 - 
