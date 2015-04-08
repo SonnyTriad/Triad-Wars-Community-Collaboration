@@ -21,7 +21,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 
 - *Character Customization and Loadout:*
-
+-
  1. (2)[Confirmed] Female Character ->
 This has been requested multiple times by the Community as it will
 allow the playerbase to play as a female, expanding the story possibilities into the Triad Wars Universe. Although
@@ -49,7 +49,7 @@ styles in its entirety yet. If you count the fighting styles already in the game
 be included If I am not wrong.
 
 - *Vehicles and Customization:*
-
+-
  1. (4)[Unconfirmed] Greater range of Vehicles ->
 Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
 doesn't really matter at the current time. Once fine tuning of driving controls is fixed, this should move further up in
@@ -79,7 +79,7 @@ customize your weapons with colors, decals and perhaps even some property changi
 stocks. No words from the Devs on this yet.
 
 - *Balances, Tuning and/or Reworks:*
-
+-
  1. (1)[Unconfirmed] Fine tuning of driving and running ->
 Running, which seems to be a lot better with the controller (understandably), can be quite frustrating on the keyboard. One
 of the major issues is the autoclimb/vault, which can run you into walls, places you don't want to go, and even get you
@@ -109,7 +109,9 @@ Just a nice feature to have and a time saver. Players would be able to sell all 
 warehouse. They would also be able to buy a select amount. No confirmation yet.
 
 - *Safehouse and Customization:*
+- 
 - *Racket Tech Tree:*
+- 
 
  1. (3)[Confirmed] More Racket Branches ->
 A new racket branch should be coming next patch according to the devs. However, new trees ever now and then would be nice.
@@ -118,14 +120,14 @@ parlour, Brothel, XXX store). One for human trafficking (Organ harvesting, deali
 to come! The branch the devs have confirmed will have to do more with smuggling, perhaps including a portion in water (boat).
 
 - *Turf and Turf Manager:*
-
+-
  1. (3)[Semi-Confirmed] Larger Turf ->
  With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new
 rackets. Racket slots added into turf, how many depends on the number of new rackets. Devs have hinted at this, though there
 is no official statement as of yet.
  
 - *External Applications and Websites/Forums:*
-
+-
  1. (2)[Unconfirmed] Phone App for Managing Turf ->
 People may be busy with work or real life issues, not able to log on, however this app will allow people to manage their turf
 away from the pc (obviously they are still able to be raided and cannot raid whilst on their phone). This has been requested
@@ -137,7 +139,7 @@ strategies, levelling strategies etc. A nice feature that would bring a select n
 word from the devs yet.
 
 - *Chat and Social hub:*
-
+-
  1. (5)[Unconfirmed] Ability to take selfies ->
 A very non-essential yet fun and immersive feature that could be implemented into the TW world. Just raided someones base?
 Take a selfie of yourself smiling over their dead goons and send the picture straight to them!. This could also be used with
@@ -155,10 +157,15 @@ don't see why not, however your message menu should not pause the game, giving y
 cannot be done, a status next to your friends name letting you know their in a raid would be nice.
 
 - *Hobbies and Favors:*
+- 
 - *Store and Events:*
+- 
 - *Coop and other Player interaction:*
+- 
 - *Map and Zones:*
+- 
 - *Bug Fixes:*
+- 
 
  1. (1)[Unconfirmed] Add a respawn option with no penalty ->
 You may respawn from the menu (whilst still alive) with no penalty of face loss, however it will put your raid on a cooldown
@@ -166,12 +173,16 @@ if you were in one. Just a nice fix to getting stuck, or any bugs showing up in 
 No words from the devs yet.
 
 - *Triad and NPCS:*
+- 
 1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
 Kissing animation is needed, as npcs will rub their faces together (lol). Other than that I haven't found any animations that
 need fixes yet.
 - *Social Interaction and Romances:*
+- 
 - *Missions and Gamemodes (Raid included):*
+- 
 - *Community Input:*
+- 
 
  1. (3)[Unconfirmed] Creation Kit ->
 A kit created by the devs that contains simple -> intricate pattners, lines and color selection etc, that will allow players
