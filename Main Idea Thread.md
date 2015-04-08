@@ -208,24 +208,45 @@ from the dev team.
 (see above in rework section)
 
  5. (4)[Unconfirmed] Biography(Background story) ->
-Just a small feature to be added to someones profile that will help immerse the player into the world of TW. Good for rp and just having fun in TW, can't really see any downside from it. No response yet.
+Just a small feature to be added to someones profile that will help immerse the player into the world of TW. Good for rp and
+just having fun in TW, can't really see any downside from it. No response yet.
 
-- *Hobbies and Favors:*
+- *Hobbies and Favours:*
 - 
+ 1. (2) Proper Timer for Favours ->
+Rather than just showing the card is active (e.g. card a (72 hours) ), show the remaining time left on it (e.g. card A, 72
+hours, 10 hours remaining). 
 
 - *Store and Events:*
 - 
 
  1. (5)[Semi-Confirmed] Holiday or event themed items ->
-Items, events and objects that represent specific events that will temporarily be available for purchase. From small things, like buying mistletoe for your safehouse, or something big like an outfit to dress up as winston or wei for halloween. This will help keep things fresh, without breaking the lore of TW and bringing in a decent profit for the devs to fund the game. No confirmation of any specific item yet.
+Items, events and objects that represent specific events that will temporarily be available for purchase. From small things,
+like buying mistletoe for your safehouse, or something big like an outfit to dress up as winston or wei for halloween. This
+will help keep things fresh, without breaking the lore of TW and bringing in a decent profit for the devs to fund the game.
+No confirmation of any specific item yet.
+
+ 2. (5)[Unconfirmed] "---" of the week deal ->
+If the community items do come to play, A dev or community vote will decide the favourite set for that specific week (e.g.
+car a with rims c and light b for 15% total discount. Or shirt, shoes and shorts for 15% discount) and it will be put on a
+flash sale for a few hours. No point implementing this until there are more things in the store to choose from.
 
 - *Coop and other Player interaction:*
 - 
 
  1. (1)[Confirmed] Coop Raids ->
 Raiding people with a friend, what not to love? Probably the 1. most requested feature in TW, and the devs have granted our
-wish. This is confirmed, and in the works. Details of what will change in the coop, how favors will function and if it will
+wish. This is confirmed, and in the works. Details of what will change in the coop, how favours will function and if it will
 influence rewards are not yet revealed. Sit tight for more info.
+
+ 2. (3)[Unconfirmed] Bounties -> 
+Place a bountie on another player, wether it is to annoy your friend, hinder an enemy or just to be a pain in the rear,
+Bounties should be able to be offered in cash or items (warehouse). A player who takes the said bounty would then raid the
+person, receiving nothing for it but the bounty and face. (looted items will go to the person who placed the bounty). This
+idea is credited to CrownTheJules, and is currently unanswered.
+
+ 3. (4)[Unconfirmed] Join instances with friends ->
+Whether this is having fun at karaoke, Hitting up clubs, Having an arm wrestle, hanging around at a friend's turf or kicking back in the safehouse, It would all be that much more fun with a friend.. or two! No answer to this at the moment, but we hope!
 - *Map and Zones:*
 - 
 
@@ -239,15 +260,32 @@ No words from the devs yet.
 
 - *Triad and NPCS:*
 - 
+ 1. (3)[Unconfirmed] Preplanning of your turfs defence ->
+Letting the players not only build their turf, but devise how they want to plan it, will offer a much more strategical aspect
+to TW's core gameplay. With an allocated amount of npcs defending, allocate where they will defend (still limited by each
+racket minimum and maximum amount of defenders), what they are armed with, and how they behave (aggresive, run for cover,
+call reinforcements etc). Allow players to chose the spawn positions of said goons (e.g. two near the elevator, or 3 in
+racket A's south side etc). Add mini bosses in each racket (not insanely strong) that is immune to bullets and must be dealt
+with melee style. Being about two levels higher than the common goons, the racket mini bosses will not be very hard to beat,
+but if you are not careful can pack a punch. Have two mini bosses like these protect the enforcer (your character) when
+raided to add some serious pressure. These two personal guards can be eliminated from play by completing a mission before
+raiding (like intel gathering for time).
 
-1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
+ 1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
 Kissing animation is needed, as npcs will rub their faces together (lol). Perhaps a few more facial expressions, laughing
 etc. Other than that I haven't found any animations that need fixes yet.
+
 - *Social Interaction and Romances:*
 - 
 
 - *Missions and Gamemodes (Raid included):*
 - 
+
+ 1. (4)[Unconfirmed] Random event whilst raiding ->
+Add the posibility for random events whilst raiding (double chance when playing coop raids). For example, if finishing a raid
+with less than 30 seconds left, there will be a 20% chance that you have to escape from the police in your getaway car.
+Amnbushes are already implemented, however ambushes that can get you during raids should be a posibility if one of your
+rivals has a favour card for it. (not yet in game) Unanswered at the moment.
 
 - *Community Input:*
 - 
