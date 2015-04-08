@@ -23,11 +23,11 @@ version 1.0)
 
  1. (2)[Confirmed] Female Character ->
 This has been requested multiple times by the Community as it will
-allow the female playerbase to play as their gender, expanding the story possibilities into the Triad Wars Universe. Although
+allow the playerbase to play as a female, expanding the story possibilities into the Triad Wars Universe. Although
 this is confirmed, A lot of work must be done first, such as voice actors, new animations, playermodel etc. "already on our
 list of things to do" - Dev team.
 
- 2. (2-3)[No information so far] Character Modification ->
+ 2. (2-3)[Unconfirmed] Character Modification ->
 Allowing the playerbase to further modify their TW character's body and face. Height, weight, muscle definition, facial hair,
 eyebrow style, scars, eyes, ears etc. This is incredibly important to the game, as it allows players to make their own
 characer, unique to every other player in the world. A Unique character will stand out, allow potential roleplay or storyline
@@ -48,6 +48,16 @@ styles in its entirety yet. If you count the fighting styles already in the game
 be included If I am not wrong.
 
 - Vehicles and Customization:
+ 1. (4)[Unconfirmed} Greater range of Vehicles ->
+Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
+doesn't really matter at the current time. Once fine tuning of driving controls is fixed, this should move further up in
+priority. No words from the devs yet.
+ 2. (3)[Unconfirmed] Modifying Vehicles ->
+Another highly requested addition by the community, being able modify and make your own one of a kind vehicle (appearance
+wise) would really help the world of TW expand. Paint jobs, Applying custom emblems (see at end of thread), Changing rims,
+and all perfomance mods should eventually be available, to have full control of your ride. Performance mods should not only
+have slight appearance changes (e.g NOS in back seat), but apply changes to the car. Balancing will need to take place before
+any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). 
 - Weapons and Customization:
 - Balances, Tuning and/or Reworks:
 
@@ -60,13 +70,49 @@ has some issues, feeling a lot less smooth than the original sleeping dogs for s
 and slightly upping the horizontal handling on all vehicles should fix this. 
 
  2. (2)[Unconfirmed] XP Modifiers ->
-Different kills, whether it is with a vehicle, gun, melee, a type of kill, environment, headshot etc, there should be modifiers to the default 25XP.
+Different kills, whether it is with a vehicle, gun, melee, a type of kill, environment, headshot etc, there should be
+modifiers to the default XP. (special thanks to CrownTheJules)(These xp values are obviously subject to change due to the
+devs decisions. This is simply a placeholder) 10xp bonus for a headshot, 100xp for clearing a racket without taking damage,
+20xp bonus for an environmental kill, Cripple kill enemy 10xp bonus, Killing enemy with open car door 25xp bonus, vault kill
+10xp bonus, Killing 2 enemies in 5 sec: 10 extra xp, Killing 3 enemies in 9 sec: 15 extra xp, killing 4 enemies in less than
+12 sec: 20 extra xp and so on, finish entire turf taking 0 damage, 250 xp bonus. 
+
+ 3. (2)[Unconfirmed] Collect all and Fill all queues (rackets) ->
+Nothing to hard to implement, but relieves some annoyance from having to spam click in later levels. Would allow players to
+collect all finished queues from a racket, and fill it up again. No confirmation yet.
+
+ 4. (2)[Unconfirmed] Chance to lose staff in raid lowered, rather than 100% rate ->
+Makes it easier to maintain a healthy staff, as staff cards can sometimes be difficult to get. Would give staff a decent
+chance of surviving an attack. No confirmation yet.
+
+ 5. (2)[Unconfirmed] Sell All/Buy select amount (warehouse/market) ->
+Just a nice feature to have and a time saver. Players would be able to sell all or a select amount of items from their
+warehouse. They would also be able to buy a select amount. No confirmation yet.
 
 - Safehouse and Customization:
 - Racket Tech Tree:
+ 1. (3)[Confirmed] More Racket Branches ->
+A new racket branch should be coming next patch according to the devs. However, new trees ever now and then would be nice.
+The community seems to agree that we need one for drugs (cooking, selling, trading). One for the red light district (massage
+parlour, Brothel, XXX store). One for human trafficking (Organ harvesting, dealing and Black market trades). Hopefully more
+to come! The branch the devs have confirmed will have to do more with smuggling, perhaps including a portion in water (boat).
+
 - Turf and Turf Manager:
+
+ 1. (3)[Unconfirmed] Larger Turf ->
+ 
 - External Applications and Websites/Forums:
- 1. (2)
+
+ 1. (2)[Unconfirmed] Phone App for Managing Turf ->
+People may be busy with work or real life issues, not able to log on, however this app will allow people to manage their turf
+away from the pc (obviously they are still able to be raided and cannot raid whilst on their phone). This has been requested
+many times, yet no definitive response from the devs as of yet.
+
+ 2. (5)[Unconfirmed] Subforum for Guides for TW ->
+Community content driven subforum, where players can post what works, and what dosent in turf combinations, raiding
+strategies, levelling strategies etc. A nice feature that would bring a select number of the player base closer together. No
+word from the devs yet.
+
 - Chat and Social hub:
 
  1. (5)[Unconfirmed] Ability to take selfies ->
@@ -90,7 +136,16 @@ cannot be done, a status next to your friends name letting you know their in a r
 - Coop and other Player interaction:
 - Map and Zones:
 - Bug Fixes:
+
+ 1. (1)[Unconfirmed] Add a respawn option with no penalty ->
+You may respawn from the menu (whilst still alive) with no penalty of face loss, however it will put your raid on a cooldown
+if you were in one. Just a nice fix to getting stuck, or any bugs showing up in the current beta (unnaccessible rackets etc)
+No words from the devs yet.
+
 - Triad and NPCS:
+1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
+Kissing animation is needed, as npcs will rub their faces together (lol). Other than that I haven't found any animations that
+need fixes yet.
 - Social Interaction and Romances:
 - Missions and Gamemodes (Raid included):
 - Community Input:
