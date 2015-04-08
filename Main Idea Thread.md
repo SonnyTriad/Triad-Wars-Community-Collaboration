@@ -174,15 +174,22 @@ little feature.
 
  3. (3)[Unconfirmed] Letting you message in a raid and/Or showing friend status (IN RAID) ->
 With all buttons locked whenever you are in combat or raiding, you are unable to properly read and respond to messages. I
-don't see why not, however your message menu should not pause the game, giving you an unfair advantage mid raid. A Raid symbol next to your friends name would let you know they are busy and might take a while to respond. No response as of yet from the dev team.
+don't see why not, however your message menu should not pause the game, giving you an unfair advantage mid raid. A Raid
+symbol next to your friends name would let you know they are busy and might take a while to respond. No response as of yet
+from the dev team.
+
 - *Hobbies and Favors:*
 - 
 - *Store and Events:*
 - 
+ 1. (5)[Semi-Confirmed] Holiday or event themed items ->
+Items, events and objects that represent specific events that will temporarily be available for purchase
 - *Coop and other Player interaction:*
 - 
  1. (1)[Confirmed] Coop Raids ->
-Raiding people with a friend, what not to love? Probably the 1. most requested feature in TW, and the devs have granted our wish. This is confirmed, and in the works. Details of what will change in the coop, how favors will function and if it will influence rewards are not yet revealed. Sit tight for more info.
+Raiding people with a friend, what not to love? Probably the 1. most requested feature in TW, and the devs have granted our
+wish. This is confirmed, and in the works. Details of what will change in the coop, how favors will function and if it will
+influence rewards are not yet revealed. Sit tight for more info.
 - *Map and Zones:*
 - 
 - *Bug Fixes:*
@@ -196,8 +203,8 @@ No words from the devs yet.
 - *Triad and NPCS:*
 - 
 1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
-Kissing animation is needed, as npcs will rub their faces together (lol). Other than that I haven't found any animations that
-need fixes yet.
+Kissing animation is needed, as npcs will rub their faces together (lol). Perhaps a few more facial expressions, laughing
+etc. Other than that I haven't found any animations that need fixes yet.
 - *Social Interaction and Romances:*
 - 
 - *Missions and Gamemodes (Raid included):*
@@ -208,10 +215,11 @@ need fixes yet.
  1. (3)[Unconfirmed] Creation Kit ->
 A kit created by the devs that contains simple -> intricate pattners, lines and color selection etc, that will allow players
 to create their own clothing, (on top of a plain existing model of clothing of course, like v-necks) tattoos, shoes,
-accesories (custom mask etc), decals for cars, emblems for gang. This will allow players to have one of a kind patterns that
-no one else has, giving each player the opportunity to feel unique and make a name for themselves. I am sure the community
-would be fine with the devs selling this kit as a pack, as long as it is a reasonable price $10-$20. If you need reference
-material, APB reloaded's pattern maker is a good comparison.
+accesories (custom mask etc), decals for cars, emblems for gang. The original of the item must be owned first (buying plain
+version of clothing in shop) This will allow players to have one of a kind patterns that no one else has, giving each player
+the opportunity to feel unique and make a name for themselves. I am sure the community would be fine with the devs selling
+this kit as a pack, as long as it is a reasonable price $10-$20. If you need reference material, APB reloaded's pattern maker
+is a good comparison.
 
  2. (4)[Unconfirmed] Community Made Items ->
 Simply put, Items you can find now in the vehicles tab and clothing, hair, weapons etc, some of these will be made by the
