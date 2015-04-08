@@ -171,7 +171,8 @@ A few options added in for each players turf (preferably around 4-5) of which th
 style of their rackets and warehouse (perhaps even the outside of the safehouse). From neon skyline-esque buildings to
 traditional chinese, players should have a choice of what theme they'd like for their turf. Another original idea, so no
 confirmation yet.
- 
+
+ 3. (4)[Unconfirmed] Turf for triad -> There should be a large turf for each triad, which has many features that will enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless trading between the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet confirmed.
 - *External Applications and Websites/Forums:*
 -
 
@@ -293,6 +294,11 @@ right hand men and leader should respectively have 2 and 1 member.
 
 - *Social Interaction and Romances:*
 - 
+ 1. (3)[Unconfirmed] Loyalty Bar ->
+After discussing it with many players at length, we all agreed that a feature like the loyalty bar, which fills as a pair of
+people trade, do coop raids, and whatever else in the future would be a great idea. Players with a filled/mostly filled
+loyalty bar are granted acess to favours to one another, that if their friend is being raided or ambushed they can choose to
+send a group of armed npcs to help out once per day, though they dont have to. (Can already see the potential drama :P).
 
 - *Missions and Gamemodes (Raid included):*
 - 
