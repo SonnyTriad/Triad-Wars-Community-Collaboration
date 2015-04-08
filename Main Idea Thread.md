@@ -274,9 +274,16 @@ but if you are not careful can pack a punch. Have two mini bosses like these pro
 raided to add some serious pressure. These two personal guards can be eliminated from play by completing a mission before
 raiding (like intel gathering for time).
 
- 1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
+ 2. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
 Kissing animation is needed, as npcs will rub their faces together (lol). Perhaps a few more facial expressions, laughing
 etc. Other than that I haven't found any animations that need fixes yet.
+
+ 3. (4)[Unconfirmed] Rivalries and Alliances ->
+Once gangs are able to be created in TW who wouldn't want some friendly competition, or some fierce rivalry! Add the option
+to ally with another gang, which will warn members that they are about to raid an ally if they find them in world (They can
+still break the alliance if they choose), hopefully keeping the peace between the two gangs. An option for a rival would be
+great too. The two gangs would go out of their way to sabotage eachother, constantly raiding, ambushing and being pains in
+the backside until one side sumbits.
 
 - *Social Interaction and Romances:*
 - 
