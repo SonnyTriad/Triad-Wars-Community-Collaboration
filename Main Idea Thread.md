@@ -116,9 +116,11 @@ warehouse. They would also be able to buy a select amount. No confirmation yet.
 furniture options and perhaps even purchasable furniture in the future will be a possibility. Personally this is one of the
 things I am looking forward to he most in TW. Raiding someone and seeing their unique character and home will leave an
 impression, this is just another option in which TW can reward players for their creativity, by giving them the
-chance to make a home to be able to show off. Unconfirmed so far, but we can always hope :).
+chance to make a home to be able to show off. Coop experience later on could also allow other users to visit players safehouses. Unconfirmed so far, but we can always hope :). 
 
- 2. (4)[Unconfirme
+ 2. (4)[Unconfirmed] Broken Elevator upgraded to Personal Garage ->
+A personal garage where you can display a set number of cars as well as a nice area to loiter. As well as the safehouse, the garage should be able to be visited by friends. Either levelling up your safehouse will level up the garage, or a seperate tier, with garage customization options avaiable for the TW community. An original idea, so no confirmation from staff as of yet.
+
 - *Racket Tech Tree:*
 - 
 
