@@ -116,10 +116,14 @@ warehouse. They would also be able to buy a select amount. No confirmation yet.
 furniture options and perhaps even purchasable furniture in the future will be a possibility. Personally this is one of the
 things I am looking forward to he most in TW. Raiding someone and seeing their unique character and home will leave an
 impression, this is just another option in which TW can reward players for their creativity, by giving them the
-chance to make a home to be able to show off. Coop experience later on could also allow other users to visit players safehouses. Unconfirmed so far, but we can always hope :). 
+chance to make a home to be able to show off. Coop experience later on could also allow other users to visit players
+safehouses. Unconfirmed so far, but we can always hope :). 
 
  2. (4)[Unconfirmed] Broken Elevator upgraded to Personal Garage ->
-A personal garage where you can display a set number of cars as well as a nice area to loiter. As well as the safehouse, the garage should be able to be visited by friends. Either levelling up your safehouse will level up the garage, or a seperate tier, with garage customization options avaiable for the TW community. An original idea, so no confirmation from staff as of yet.
+A personal garage where you can display a set number of cars as well as a nice area to loiter. As well as the safehouse, the
+garage should be able to be visited by friends. Either levelling up your safehouse will level up the garage, or a seperate
+tier, with garage customization options avaiable for the TW community. Minigames such as majong or arm wrestling should be
+available if purchased here. An original idea, so no confirmation from staff as of yet.
 
 - *Racket Tech Tree:*
 - 
@@ -133,9 +137,15 @@ to come! The branch the devs have confirmed will have to do more with smuggling,
 - *Turf and Turf Manager:*
 -
  1. (3)[Semi-Confirmed] Larger Turf ->
- With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new
+With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new
 rackets. Racket slots added into turf, how many depends on the number of new rackets. Devs have hinted at this, though there
 is no official statement as of yet.
+
+ 2. (5)[Unconfirmed] Style of buildings ->
+A few options added in for each players turf (preferably around 4-5) of which they can choose to govern the architectual
+style of their rackets and warehouse (perhaps even the outside of the safehouse). From neon skyline-esque buildings to
+traditional chinese, players should have a choice of what theme they'd like for their turf. Another original idea, so no
+confirmation yet.
  
 - *External Applications and Websites/Forums:*
 -
