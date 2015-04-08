@@ -48,7 +48,7 @@ will be skill trees for different moves, however no word on different fighting
 styles in its entirety yet. If you count the fighting styles already in the game a mix of karate, wing chun and jujitsu would
 be included If I am not wrong.
 
-- Vehicles and Customization:
+- *Vehicles and Customization:*
 
  1. (4)[Unconfirmed} Greater range of Vehicles ->
 Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
@@ -63,9 +63,9 @@ have slight appearance changes (e.g NOS in back seat), but apply changes to the 
 place before any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). No words from the
 dev on this yet!
 
-- Weapons and Customization:
+- *Weapons and Customization:*
 
-- Balances, Tuning and/or Reworks:
+- *Balances, Tuning and/or Reworks:*
 
  1. (1)[Unconfirmed] Fine tuning of driving and running ->
 Running, which seems to be a lot better with the controller (understandably), can be quite frustrating on the keyboard. One
@@ -95,19 +95,20 @@ chance of surviving an attack. No confirmation yet.
 Just a nice feature to have and a time saver. Players would be able to sell all or a select amount of items from their
 warehouse. They would also be able to buy a select amount. No confirmation yet.
 
-- Safehouse and Customization:
-- Racket Tech Tree:
+- *Safehouse and Customization:*
+- *Racket Tech Tree:*
  1. (3)[Confirmed] More Racket Branches ->
 A new racket branch should be coming next patch according to the devs. However, new trees ever now and then would be nice.
 The community seems to agree that we need one for drugs (cooking, selling, trading). One for the red light district (massage
 parlour, Brothel, XXX store). One for human trafficking (Organ harvesting, dealing and Black market trades). Hopefully more
 to come! The branch the devs have confirmed will have to do more with smuggling, perhaps including a portion in water (boat).
 
-- Turf and Turf Manager:
+- *Turf and Turf Manager:*
 
- 1. (3)[Unconfirmed] Larger Turf ->
+ 1. (3)[Semi-Confirmed] Larger Turf ->
+ With racket expansion on the horizon, it is inevitable that the players turf will need to expand to house a few of these new rackets. Racket slots added into turf, how many depends on the number of new rackets. Devs have hinted at this, though there is no official statement as of yet.
  
-- External Applications and Websites/Forums:
+- *External Applications and Websites/Forums:*
 
  1. (2)[Unconfirmed] Phone App for Managing Turf ->
 People may be busy with work or real life issues, not able to log on, however this app will allow people to manage their turf
@@ -119,7 +120,7 @@ Community content driven subforum, where players can post what works, and what d
 strategies, levelling strategies etc. A nice feature that would bring a select number of the player base closer together. No
 word from the devs yet.
 
-- Chat and Social hub:
+- *Chat and Social hub:*
 
  1. (5)[Unconfirmed] Ability to take selfies ->
 A very non-essential yet fun and immersive feature that could be implemented into the TW world. Just raided someones base?
@@ -137,24 +138,24 @@ With all buttons locked whenever you are in combat or raiding, you are unable to
 don't see why not, however your message menu should not pause the game, giving you an unfair advantage mid raid. If this
 cannot be done, a status next to your friends name letting you know their in a raid would be nice.
 
-- Hobbies and Favors:
-- Store and Events:
-- Coop and other Player interaction:
-- Map and Zones:
-- Bug Fixes:
+- *Hobbies and Favors:*
+- *Store and Events:*
+- *Coop and other Player interaction:*
+- *Map and Zones:*
+- *Bug Fixes:*
 
  1. (1)[Unconfirmed] Add a respawn option with no penalty ->
 You may respawn from the menu (whilst still alive) with no penalty of face loss, however it will put your raid on a cooldown
 if you were in one. Just a nice fix to getting stuck, or any bugs showing up in the current beta (unnaccessible rackets etc)
 No words from the devs yet.
 
-- Triad and NPCS:
+- *Triad and NPCS:*
 1. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
 Kissing animation is needed, as npcs will rub their faces together (lol). Other than that I haven't found any animations that
 need fixes yet.
-- Social Interaction and Romances:
-- Missions and Gamemodes (Raid included):
-- Community Input:
+- *Social Interaction and Romances:*
+- *Missions and Gamemodes (Raid included):*
+- *Community Input:*
 
  1. (3)[Unconfirmed] Creation Kit ->
 A kit created by the devs that contains simple -> intricate pattners, lines and color selection etc, that will allow players
