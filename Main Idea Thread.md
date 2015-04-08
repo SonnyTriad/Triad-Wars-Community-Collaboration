@@ -160,11 +160,9 @@ Also non-essential, yet an immersive feature that could be added to the game to 
 the world. Perhaps even an animation of your character bringing up their phone when you open your messages would be a nice
 little feature.
 
- 3. (3)[Unconfirmed] Letting you message in a raid/Or showing friend status (IN RAID) ->
+ 3. (3)[Unconfirmed] Letting you message in a raid and/Or showing friend status (IN RAID) ->
 With all buttons locked whenever you are in combat or raiding, you are unable to properly read and respond to messages. I
-don't see why not, however your message menu should not pause the game, giving you an unfair advantage mid raid. If this
-cannot be done, a status next to your friends name letting you know their in a raid would be nice.
-
+don't see why not, however your message menu should not pause the game, giving you an unfair advantage mid raid. A Raid symbol next to your friends name would let you know they are busy and might take a while to respond. No response as of yet from the dev team.
 - *Hobbies and Favors:*
 - 
 - *Store and Events:*
