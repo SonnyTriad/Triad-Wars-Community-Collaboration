@@ -12,13 +12,13 @@ Updates and new ideas: New ideas Will briefly mentioned here, and confirmation o
 
 - Character Customization and Loadout:
 
-1. (2)[Confirmed] Female Character ->
+ 1. (2)[Confirmed] Female Character ->
 This has been requested multiple times by the Community as it will
 allow the female playerbase to play as their gender, expanding the story possibilities into the Triad Wars Universe. Although
 this is confirmed, A lot of work must be done first, such as voice actors, new animations, playermodel etc. "already on our
 list of things to do" - Dev team.
 
-2. (2-3)[No information so far] Character Modification ->
+ 2. (2-3)[No information so far] Character Modification ->
 Allowing the playerbase to further modify their TW character's body and face. Height, weight, muscle definition, facial hair,
 eyebrow style, scars, eyes, ears etc. This is incredibly important to the game, as it allows players to make their own
 characer, unique to every other player in the world. A Unique character will stand out, allow potential roleplay or storyline
@@ -26,7 +26,7 @@ to be built and keep players interested in the game. Although some aspects of th
 and tattoos (leaving very few as starters), the majority of the body customization and facial customization should be free.
 No answer to this request as of yet.
  
-3. (4)[Semi-Confirmed] Fighting Styles and Skills ->
+ 3. (4)[Semi-Confirmed] Fighting Styles and Skills ->
 New fighting styles to choose from (muay thai, judo, wrestling etc), skill trees for moves and with that, different
 animations for counters, grapples and throws. A nice addition to the world of TW, keeping things fresh, however not essintial
 for the the core gameplay. Choosing a fighting style (2-3) at the start of the game (including the one in action at the
@@ -55,11 +55,13 @@ be included If I am not wrong.
 - Social Interaction and Romances:
 - Missions and Gamemodes (Raid included):
 - Community Input:
-1. (3)[Unconfirmed] Creation Kit: 
+
+ 1. (3)[Unconfirmed] Creation Kit ->
 A kit created by the devs that contains simple -> intricate pattners, lines and color selection etc, that will allow players
 to create their own clothing, (on top of a plain existing model of clothing of course, like v-necks) tattoos, shoes,
 accesories (custom mask etc), decals for cars, emblems for gang. This will allow players to have one of a kind patterns that
 no one else has, giving each player the opportunity to feel unique and make a name for themselves. I am sure the community
 would be fine with the devs selling this kit as a pack, as long as it is a reasonable price $10-$20. 
-2. (4)
+
+ 2. (4)
 
