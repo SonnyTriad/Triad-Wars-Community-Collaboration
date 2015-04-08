@@ -49,12 +49,36 @@ be included If I am not wrong.
 - Vehicles and Customization:
 - Weapons and Customization:
 - Balances, Tuning and/or Reworks:
+
+ 1. (1)[Unconfirmed] Fine tuning of driving and running ->
+Running, which seems to be a lot better with the controller (understandably), can be quite frustrating on the keyboard. One
+of the major issues is the autoclimb/vault, which can run you into walls, places you don't want to go, and even get you
+stuck, making it hell in small areas. It does not seem to autoclimb on the xbox controller, but with the keyboard it will
+automatically do it, if this is intentional or not I am unsure. The driving, which is much smoother than the walking, still
+has some issues, feeling a lot less smooth than the original sleeping dogs for some reason. Making it more reactive to input
+and slightly upping the horizontal handling on all vehicles should fix this. 
+
 - Safehouse and Customization:
 - Racket Tech Tree:
 - Turf and Turf Manager:
 - External Applications and Websites/Forums:
+ 1. (2)
 - Chat and Social hub:
-- Jobs, Hobbies and Favors:
+
+ 1. (5)[Unconfirmed] Ability to take selfies ->
+A very non-essential yet fun and immersive feature that could be implemented into the TW world. Just raided someones base?
+Take a selfie of yourself smiling over their dead goons and send the picture straight to them!. This could also be used with
+a small caption, popping up on the right tab of your personal page whenever a friend posts a selfie. New outfits, cars,
+houses etc can all be shown off.
+ 2. (4)[Unconfirmed] Messages to friends look like texts ->
+Also non-essential, yet an immersive feature that could be added to the game to make it seem like you are actually part of
+the world. Perhaps even an animation of your character bringing up their phone when you open your messages would be a nice
+little feature.
+ 3. (3)[Unconfirmed] Letting you message in a raid/Or showing friend status (IN RAID) ->
+With all buttons locked whenever you are in combat or raiding, you are unable to properly read and respond to messages. I
+don't see why not, however your message menu should not pause the game, giving you an unfair advantage mid raid. If this
+cannot be done, a status next to your friends name letting you know their in a raid would be nice.
+- Hobbies and Favors:
 - Store and Events:
 - Coop and other Player interaction:
 - Map and Zones:
