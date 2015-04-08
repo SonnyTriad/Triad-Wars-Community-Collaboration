@@ -1,6 +1,7 @@
 # Triad-Wars-Community-Collaboration
 Ideas I have seen requested many times! Helping out the devs with the sorting! - Sonny
-Special Thanks to BridgetKFisher for making this possible :)
+Special Thanks to BridgetKFisher for making this possible :) Also a big thanks to Handsome-Jack and CrowntTheJules for some
+of the ideas here below!
 
 
 First and foremost I have no legal claims and am not interested in claiming any of the ideas I put here, they are merely
@@ -57,6 +58,9 @@ stuck, making it hell in small areas. It does not seem to autoclimb on the xbox 
 automatically do it, if this is intentional or not I am unsure. The driving, which is much smoother than the walking, still
 has some issues, feeling a lot less smooth than the original sleeping dogs for some reason. Making it more reactive to input
 and slightly upping the horizontal handling on all vehicles should fix this. 
+
+ 2. (2)[Unconfirmed] XP Modifiers ->
+Different kills, whether it is with a vehicle, gun, melee, a type of kill, environment, headshot etc, there should be modifiers to the default 25XP.
 
 - Safehouse and Customization:
 - Racket Tech Tree:
