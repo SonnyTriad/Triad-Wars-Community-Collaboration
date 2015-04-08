@@ -1,5 +1,6 @@
 # Triad-Wars-Community-Collaboration
 Ideas I have seen requested many times! Helping out the devs with the sorting! - Sonny
+Special Thanks to BridgetKFisher for making this possible :)
 
 First and foremost I have no legal claims and am not interested in claiming any of the ideas I put here, they are merely suggestions that I have seen that the community thinks would make the game better. The staff of Triad Wars has my permission to use these ideas.
 
@@ -17,7 +18,11 @@ Updates and new ideas: New ideas Will briefly mentioned here, and confirmation o
 - Turf and Turf Manager:
 - External Applications and Websites/Forums:
 - Chat and Social hub:
-- Jobs and Favors:
+- Jobs, Hobbies and Favors:
 - Store and Events:
 - Coop and other Player interaction:
-- Map and Zones
+- Map and Zones:
+- Bug Fixes:
+- Triad:
+- Social Interaction and Romances:
+- Missions and Gamemodes:
