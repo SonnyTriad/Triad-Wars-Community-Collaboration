@@ -9,11 +9,11 @@ suggestions that I have seen that the community thinks would make the game bette
 to use these ideas.
 
 
-Priotity System: I will class ideas from a (1) to a (5). 1 being detrimental to the game's success or very highly requested
+**Priotity System:** I will class ideas from a (1) to a (5). 1 being detrimental to the game's success or very highly requested
 by the community, 5 being very low in priority, but a nice addition further along the games lifespan.
 
 
-Updates and new ideas: New ideas Will briefly mentioned here, and confirmation or cancellation of a suggestion (current
+**Updates and new ideas:** New ideas Will briefly mentioned here, and confirmation or cancellation of a suggestion (current
 version 1.0)
 
 
