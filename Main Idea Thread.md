@@ -76,7 +76,7 @@ material, APB reloaded's pattern maker is a good comparison.
 Simply put, Items you can find now in the vehicles tab and clothing, hair, weapons etc, some of these will be made by the
 community. Rather than having thousands of items pouring in, the community will make a pol, voting their favourite 5-10 items
 of the week/month/whatever period of time via screenshots on the forum, and they will added to the game. To prevent legal
-issues, they will either only be available by cash (not gold), with official TW items being sold in gold, or TW devs will
-take a 50% tax (or whatever is agreed) from the item (100 gold hair, 50 goes back to devs, 50 to player). There are many
+issues, they will either only be available by in game cash (not gold), with official TW items being sold in gold, or TW devs
+will take a 50% tax (or whatever is agreed) from the item (100 gold hair, 50 goes back to devs, 50 to player). There are many
 examples of this model being extremely profitable and encouraging creativity in the community, as seen in CS:GO where
 majority of the guns you buy in cases, are community made.
