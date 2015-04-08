@@ -63,6 +63,9 @@ have slight appearance changes (e.g NOS in back seat), but apply changes to the 
 place before any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). No words from the
 dev on this yet!
 
+ 3. (5)[Unconfirmed] Pink Slips ->
+If racing is added in the future, you would be able to bet many things (see below), however if both parties agree, a high profile race will bet on a pink slip (the ownership of the losers car). Racing must be implemented before this can be considered.
+
 - *Weapons and Customization:*
 - 
  1. (3)[Unconfirmed] Greater range of weapons ->
@@ -107,6 +110,9 @@ chance of surviving an attack. No confirmation yet.
  5. (2)[Unconfirmed] Sell All/Buy select amount (warehouse/market) ->
 Just a nice feature to have and a time saver. Players would be able to sell all or a select amount of items from their
 warehouse. They would also be able to buy a select amount. No confirmation yet.
+
+ 6. (3)[Unconfirmed] Larger friends list and ability to cancel pending requests ->
+In the universe of TW why limit yourself to only a certain amount of contacts. Friends list should be expanded and the ability to cancel pending friend requests also would be useful (ie Accidently added wrong username, or added an AI).
 
 - *Safehouse and Customization:*
 - 
