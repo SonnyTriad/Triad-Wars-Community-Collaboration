@@ -152,7 +152,6 @@ garage should be able to be visited by friends. Either levelling up your safehou
 tier, with garage customization options avaiable for the TW community. Minigames such as majong or arm wrestling should be
 available if purchased here. An original idea, so no confirmation from staff as of yet.
 
-
 - *Racket Tech Tree:*
 - 
 
@@ -185,7 +184,7 @@ style of their rackets and warehouse (perhaps even the outside of the safehouse)
 traditional chinese, players should have a choice of what theme they'd like for their turf. Another original idea, so no
 confirmation yet.
 
- 3. (4)[Unconfirmed] Turf for triad -> There should be a large turf for each triad, which has many features that will
+ 3. (4)[Unconfirmed] Turf for triad -> A large turf for each triad, which has many features that will
 enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless
 tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet
 confirmed.
@@ -318,6 +317,14 @@ A feature that can bring a lot of fun to the game either single player or coop, 
 places. Starting from robbing a pedestrian -> a store -> a bank. Each would have their own risks and rewards. Not much news
 on this yet, please let me know if you have any ideas for it!
 
+ 7. (4)[Unconfirmed] Player-built Missions ->
+Allowing players to customize random missions (single player and multiplayer), whether its a time race through the busy
+straights of HK, Fighting off 12 very hard NPCs, Delivering a package on foot whilst multiple ambushes try to stop you etc.
+This well keep the game feeling fresh and alive for years to come.
+
+ 8. (3)[Unconfirmed] Player-Player Trading and Selling ->
+Rather than just selling and using resources for your rackets and warehouse, add the option to trade money and resources between players. Help enhance the financial side of TW and increase the social aspects. No confirmation yet.
+
 - *Map and Zones:*
 - 
 
@@ -392,6 +399,27 @@ the gang. There should be ranks, at least 10 or so with a hierarchy of power, mu
 hold majority of the members, with the number of members in higher ranks lessening until the top two ranks, equivalent to
 right hand men and leader should respectively have 2 and 1 member. 
 
+ 5. (5)[Unconfirmed] Bribing Police -> Allow players to bribe police for either no police heat, or reduced heat (e.g. instead
+of receiving 2 stars for action A your recieve 1 star) for a temporary amount of time. This would be done with a hefty
+sum of ingame cash.
+
+ 6. (4)[Unconfirmed] Turf for triad -> A large turf for each triad, which has many features that will
+enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless
+tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet
+confirmed.
+
+ 7. (5)[Unconfirmed] Random members of your gang in world ->
+Whether seeing them relaxing at the park, praying at the temple, sitting on a street corner dealing drugs or tearing it up at a karaoke joint, this
+feature would help liven the world and immerse players in the gang world. If gang customization does get added (see below
+this post) this feature would be even better! No words from the dev team yet.
+
+ 8. (5)[Unconfirmed] Gang customization ->
+The ability to customize your gangs appearance would be huge for the TW world. With the help of the community an idea was forged. A nod to the Saints Row franchise, Slots would be given to each gang member type (grappler, striker etc) How many slots you have unlocked and customized will decide how many variants of your customized members would appear in game (a mmax of 4-6 slots per type recommended). A different clothing store for gang members would most likely need to be introduced. No words from development yet.
+
+ 9. (4)[Unconfirmed] Gang Abilities -> 
+Taking hold of one of the features from the Sleeping Dog game, your character would be given abilities (car delivery in world, companion during free roam etc) either obtained via upgrade or through currency. A nice immersive feature that would really make players feel that their gang is alive and active.
+
+
 - *Social Interaction and Romances:*
 - 
 
@@ -421,6 +449,9 @@ your profile, next to your bio! No response on this yet.
 Rather than just limiting relationships between players, why not allow them to have relationships with npc (both genders).
 Perhaps make thepotential partner/s customizable? The partner's name (if unique) would still show up in the players
 bio/profile. No confirmation yet.
+
+ 6. (4)[Unconfirmed] Animations for interaction with NPCS and Players ->
+New animations made specifically for interacting with players and npcs. Could tie in to specific interactions for relationships, friendships, family, insults and others. For relationships some animations such as Kissing, Hugging, Holding hands would be nice. For friendship, a handshake, nod etc. For family perhaps a hug, bow of respect. Many options for social interactions will be unlocked with this. No confirmation yet. 
 
 - *Missions and Gamemodes (Raid included):*
 - 
@@ -463,6 +494,13 @@ Allow players to complete Rackets (not the whole raid, since the safehouse and t
 xp would be awarded for this. New combat features would be added, such as sneaking, silencers, instant melee takedowns
 (perhaps a quicktime sequence or silent takedown). No Words from the devs on this yet.
 
+ 8. (4)[Unconfirmed] Player-built Missions ->
+Allowing players to customize random missions (single player and multiplayer), whether its a time race through the busy
+straights of HK, Fighting off 12 very hard NPCs, Delivering a package on foot whilst multiple ambushes try to stop you etc.
+This well keep the game feeling fresh and alive for years to come.
+
+ 9. (4)[Unconfirmed] Random Events In World ->
+Random events during free roam, things that were included in Sleeping dogs and many others such as stop a theif, help gang member fend off enemies etc. This will keep the world feeling alive. Perhaps in the future other players could join these events for either PVP or coop.
 
 - *Community Input:*
 - 
