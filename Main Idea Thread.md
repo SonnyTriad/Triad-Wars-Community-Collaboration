@@ -14,7 +14,9 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 
 **Updates and new ideas:** New ideas will be briefly mentioned here, and confirmation or cancellation of a suggestion
-(current version 1.0)
+(current version 1.1)
+*Update here! Rage and Loyalty bars could be effected negatively or positively by your position in a*
+*triad gang (rivals, allie etc)*
 
 
 - **THREAD STARTS HERE!**
@@ -70,6 +72,10 @@ dev on this yet!
 If racing is added in the future, you would be able to bet many things (see below), however if both parties agree, a high
 profile race will bet on a pink slip (the ownership of the losers car). Racing must be implemented before this can be
 considered.
+
+4. (3)[Unconfirmed] Renting ->
+Perhaps being able to rent a car would help the immersion of the game, yet also allow some players to test cars before
+permanently buying cars (renting will be ingame cash and give the player a 1hour favour of their selected vehicle)
 
 - *Weapons and Customization:*
 - 
@@ -272,6 +278,26 @@ idea is credited to CrownTheJules, and is currently unanswered.
 Whether this is having fun at karaoke, Hitting up clubs, Having an arm wrestle, hanging around at a friend's turf or kicking
 back in the safehouse, It would all be that much more fun with a friend.. or two! No answer to this at the moment, but we
 hope!
+
+ 4. (4)[Unconfirmed] Free Roam ->
+Free roaming in Honk Kong with your buddies, what's not to love? Though it is understandable that there are many features and
+a whole lot of work that needs to be put in before this can become a reality, don't rule it out yet. The map for free roam
+would be much like the normal one, however your neighbours (usually rivals) are either friends you have invited to join your
+free roam, or members of your gang. Players could move from the city streets, to Hobbie buildings, Safe houses and Personal
+Garages (read above) that would allow people to interact with eachother through activities and just conversating. It would
+not be a good idea to allow pvp in free roam, however with popular demand, perhaps a pvp mode which would occur in a
+sectioned off part of the map would not be a bad idea. Official races should also be kept seperate from free roam instances.
+No word from the devs about this yet.
+
+ 5. (3)[Unconfirmed] Communication ->
+When playing with a friend, you might just warn him/her about that red dot pointing at the back of their head, but how do we
+do this? Voice communication is one option, preferably accessible through the chat screen (if it is reworked as a phone
+overlay) A player can call and communicate with one or more friends via voice chat. Common messages. If in an instance of
+more than yourself (coop +) you can press enter to type and talk to friends that are close to you. Gestures. More for comedic
+relief, but can also contain some useful ones, gestures can be used to quickly warn a friend about that npc sneaking up on
+then ("careful", "behind you", "take cover" gestures) for serious play, and then some gestures to have fun with, such as
+dances and other miscellaneous things (e.g. Flex, Nod etc).
+
 - *Map and Zones:*
 - 
 
@@ -294,7 +320,8 @@ racket A's south side etc). Add mini bosses in each racket (not insanely strong)
 with melee style. Being about two levels higher than the common goons, the racket mini bosses will not be very hard to beat,
 but if you are not careful can pack a punch. Have two mini bosses like these protect the enforcer (your character) when
 raided to add some serious pressure. These two personal guards can be eliminated from play by completing a mission before
-raiding (like intel gathering for time).
+raiding (like intel gathering for time). One condition I'd personally like to inject would be that you have to beat your own
+turf once (you have as many tries as you'd like) before saving your defense settings. This will stop any potential exploits.
 
  2. (5)[Unconfirmed] Animation fixes for NPCS (most are great) ->
 Kissing animation is needed, as npcs will rub their faces together (lol). Perhaps a few more facial expressions, laughing
@@ -307,7 +334,7 @@ still break the alliance if they choose), hopefully keeping the peace between th
 great too. The two gangs would go out of their way to sabotage eachother, constantly raiding, ambushing and being pains in
 the backside until one side sumbits.
 
- 4. (4)[Unconfirmed] Ranks within the gang ->
+ 4. (4)[Unconfirmed] Ranks within gang ->
 Once triads become integrated into the game, leaders of a gang should be able to: promote, demote and recruit more members of
 the gang. There should be ranks, at least 10 or so with a hierarchy of power, much like the real triads. The lowest rank will
 hold majority of the members, with the number of members in higher ranks lessening until the top two ranks, equivalent to
@@ -315,6 +342,7 @@ right hand men and leader should respectively have 2 and 1 member.
 
 - *Social Interaction and Romances:*
 - 
+
  1. (3)[Unconfirmed] Loyalty Bar ->
 After discussing it with many players at length, we all agreed that a feature like the loyalty bar, which fills as a pair of
 people trade, do coop raids, and whatever else in the future would be a great idea. Players with a filled/mostly filled
@@ -322,7 +350,20 @@ loyalty bar are granted acess to favours to one another, that if their friend is
 send a group of armed npcs to help out once per day, though they dont have to. (Can already see the potential drama :P).
 
  2. (4)[Unconfirmed] Romances ->
-Although this will offer no in game benefit, it would be nice to be able to romance other players (regardless of gender), with a relationship status showing in the players profile (if they choose to show it). Perhaps Stages of romance also (One Nigher - plaything - girlfriend/boyfriend - Soulmate). (Why couldn't winston get happily married *shakes fists at devs) It would also enhance any possible RP and just immerse people into the TW universe. No word from the devs yet.
+Although this will offer no in game benefit, it would be nice to be able to romance other players (regardless of gender),
+with a relationship status showing in the players profile (if they choose to show it). Perhaps Stages of romance also (One
+Nighter - plaything - girlfriend/boyfriend - Soulmate). (Why couldn't winston get happily married *shakes fists at devs) It
+would also enhance any possible RP and just immerse people into the TW universe. No word from the devs yet.
+
+ 3. (4)[Unconfirmed] Hate/Revenge Bar ->
+Sick of the same guy raiding you over and over? Or just cant beat someones turf, everytime you lose face to someone, you can
+rage points towards them. Upon filling, you will get the choice of sending a well armed ambush after them, or some backup the
+next time you raid that person. No word from the devs yet.
+
+ 4. (4)[Unconfirmed] Family ->
+Want to have someone playing with you be a family member in game? Family members will generate loyalty quicker, but will take
+a small portion of your profits from time to time (profits go to neither family member). Your family status will show up on
+your profile, next to your bio! No response on this yet.
 
 - *Missions and Gamemodes (Raid included):*
 - 
@@ -334,11 +375,24 @@ Amnbushes are already implemented, however ambushes that can get you during raid
 rivals has a favour card for it. (not yet in game) Unanswered at the moment.
 
  2. (3)[Unconfirmed] Conquer ->
-In this gamemode (coop compatible) you focus on wiping out a small/weak defence in a specific are, then have to hold it against either attacking gang members, or a breach from the police (or both!) for a set period of time. Whilst not a huge gamechanger, gives players something to do when everythings on cooldown.
+In this gamemode (coop compatible) you focus on wiping out a small/weak defence in a specific are, then have to hold it
+against either attacking gang members, or a breach from the police (or both!) for a set period of time. Whilst not a huge
+gamechanger, gives players something to do when everythings on cooldown.
 
- 3. (4)[Unconfirmed] Race ->
-Well.. What do you expect? It's a race! Options for a friendly race, betting cash and items, or if you really want to turn up the head, betting pink slips (ownership of your car). This can all be set at the Gambling house (hobbie buildings). Options for traffic on and off during this would be great too. I saw on a post (sorry cant remember your name) a topic about a footrace with implemented parkour, this also sounds great, and can be bet on the same way (just not with pink slips).
+ 3. (3)[Unconfirmed] Race ->
+Well.. What do you expect? It's a race! Options for a friendly race, betting cash and items, or if you really want to turn up
+the head, betting pink slips (ownership of your car). This can all be set at the Gambling house (hobbie buildings). Options
+for traffic on and off during this would be great too. I saw on a post (sorry cant remember your name) a topic about a
+footrace with implemented parkour, this also sounds great, and can be bet on the same way (just not with pink slips).
 
+ 4. (5)[Unconfirmed] PVP??? ->
+PVP due to a large number of requests was just simply so hard to imagine in the Sleeping Dogs engine, so I improvised. A
+workaround for 'perma-counters' Would be PVP in a closed map (let's just say the size of a turf right now) between a select
+number of people. Melee is disabled, letting your character only shoot and melee with the gun out (the pistol whip and kick
+for the pistol). Dodges would have to either be disabled also, or the time frame to dodge would be must smaller.
+
+ 5. (3)[Unconfirmed] Raid Preplanning and Random missions for Favour ->
+New missions added will help keep the game feeling fresh and new. Missions such as assassination (kill someone, lose cops), 
 
 - *Community Input:*
 - 
