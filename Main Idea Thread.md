@@ -166,8 +166,9 @@ Being able to build up rather than across would be awesome, and really shot the 
 have requested this, and personally I think it's an awesome idea. The amount of stacked rackets you can create should be
 limited (only 2-3 stacked small or 1 medium building) it should also cost double the amount it would to build and upgrade on
 a fresh turf building slot. It would also be quite interesting if small buffs were given to buildings that related to
-eachother being stacked. (for example a smuggling building stacked on a fishing building would give 5% more profit). No
-response yet as i assume devs will be busy with the release of the next racket branch.
+eachother being stacked. (for example a smuggling building stacked on a fishing building would give 5% more profit). Unsure
+as of yet if bracket managers should be allowed on the stack. No response yet as i assume devs will be busy with the release
+of the next racket branch.
 
 - *Turf and Turf Manager:*
 -
