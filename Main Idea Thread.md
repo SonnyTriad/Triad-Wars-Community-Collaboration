@@ -17,6 +17,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 (current version 1.2)
 *Update here (1.1)! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
+
 *Update here (1.2)! Stealth Mode for raids until the warehpuse/temple added. NPC realionships added!*
 
 
