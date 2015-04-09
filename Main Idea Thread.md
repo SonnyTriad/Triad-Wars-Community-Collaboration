@@ -381,9 +381,9 @@ a small portion of your profits from time to time (profits go to neither family 
 your profile, next to your bio! No response on this yet.
 
  5. (5)[Unconfirmed] NPC relationships ->
-Rather than just limiting relationships between players, why not allow them to have relationships with npc. Perhaps make the
-potential partner/s customizable? The partner's name (if unique) would still show up in the players bio/profile. No
-confirmation yet.
+Rather than just limiting relationships between players, why not allow them to have relationships with npc (both genders).
+Perhaps make thepotential partner/s customizable? The partner's name (if unique) would still show up in the players
+bio/profile. No confirmation yet.
 
 - *Missions and Gamemodes (Raid included):*
 - 
