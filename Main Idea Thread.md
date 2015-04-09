@@ -409,15 +409,22 @@ tradingbetween the gang. Other buildings in this turf may include a gang base, n
 confirmed.
 
  7. (5)[Unconfirmed] Random members of your gang in world ->
-Whether seeing them relaxing at the park, praying at the temple, sitting on a street corner dealing drugs or tearing it up at a karaoke joint, this
+Whether seeing them relaxing at the park, praying at the temple, sitting on a street corner dealing drugs or tearing it up at
+a karaoke joint, this
 feature would help liven the world and immerse players in the gang world. If gang customization does get added (see below
 this post) this feature would be even better! No words from the dev team yet.
 
  8. (5)[Unconfirmed] Gang customization ->
-The ability to customize your gangs appearance would be huge for the TW world. With the help of the community an idea was forged. A nod to the Saints Row franchise, Slots would be given to each gang member type (grappler, striker etc) How many slots you have unlocked and customized will decide how many variants of your customized members would appear in game (a mmax of 4-6 slots per type recommended). A different clothing store for gang members would most likely need to be introduced. No words from development yet.
+The ability to customize your gangs appearance would be huge for the TW world. With the help of the community an idea was
+forged. A nod to the Saints Row franchise, Slots would be given to each gang member type (grappler, striker etc) How many
+slots you have unlocked and customized will decide how many variants of your customized members would appear in game (a mmax
+of 4-6 slots per type recommended). A different clothing store for gang members would most likely need to be introduced. No
+words from development yet.
 
  9. (4)[Unconfirmed] Gang Abilities -> 
-Taking hold of one of the features from the Sleeping Dog game, your character would be given abilities (car delivery in world, companion during free roam etc) either obtained via upgrade or through currency. A nice immersive feature that would really make players feel that their gang is alive and active.
+Taking hold of one of the features from the Sleeping Dog game, your character would be given abilities (car delivery in
+world, companion during free roam etc) either obtained via upgrade or through currency. A nice immersive feature that would
+really make players feel that their gang is alive and active.
 
 
 - *Social Interaction and Romances:*
@@ -451,7 +458,10 @@ Perhaps make thepotential partner/s customizable? The partner's name (if unique)
 bio/profile. No confirmation yet.
 
  6. (4)[Unconfirmed] Animations for interaction with NPCS and Players ->
-New animations made specifically for interacting with players and npcs. Could tie in to specific interactions for relationships, friendships, family, insults and others. For relationships some animations such as Kissing, Hugging, Holding hands would be nice. For friendship, a handshake, nod etc. For family perhaps a hug, bow of respect. Many options for social interactions will be unlocked with this. No confirmation yet. 
+New animations made specifically for interacting with players and npcs. Could tie in to specific interactions for
+relationships, friendships, family, insults and others. For relationships some animations such as Kissing, Hugging, Holding
+hands would be nice. For friendship, a handshake, nod etc. For family perhaps a hug, bow of respect. Many options for social
+interactions will be unlocked with this. No confirmation yet. 
 
 - *Missions and Gamemodes (Raid included):*
 - 
@@ -476,10 +486,10 @@ footrace with implemented parkour, this also sounds great, and can be bet on the
  4. (5)[Unconfirmed] PVP??? ->
 PVP due to a large number of requests was just simply so hard to imagine in the Sleeping Dogs engine, so I improvised. A
 workaround for 'perma-counters' Would be PVP in a closed map (let's just say the size of a turf right now) between a select
-number of people. Melee is disabled, letting your character only shoot and melee with the gun out (the pistol whip and kick
-for the pistol). Dodges would have to either be disabled also, or the time frame to dodge would be must smaller. It seems
-that many things would need to be edited and changed for pvp, so the priority here is 5, simply because the devs need to work
-on the actual game before thinking of pvp!
+number of people, In a fight club or defending a raid. Melee is disabled, letting your character only shoot and melee with
+the gun out (the pistol whip and kick for the pistol). Dodges would have to either be disabled also, or the time frame to
+dodge would be must smaller. It seems that many things would need to be edited and changed for pvp, so the priority here is
+5, simply because the devs need to work on the actual game before thinking of pvp!
 
  5. (3)[Unconfirmed] Raid Preplanning and Random missions for Favour ->
 New missions added will help keep the game feeling fresh and new. Missions such as assassination (kill someone, lose cops), 
@@ -500,7 +510,9 @@ straights of HK, Fighting off 12 very hard NPCs, Delivering a package on foot wh
 This well keep the game feeling fresh and alive for years to come.
 
  9. (4)[Unconfirmed] Random Events In World ->
-Random events during free roam, things that were included in Sleeping dogs and many others such as stop a theif, help gang member fend off enemies etc. This will keep the world feeling alive. Perhaps in the future other players could join these events for either PVP or coop.
+Random events during free roam, things that were included in Sleeping dogs and many others such as stop a theif, help gang
+member fend off enemies etc. This will keep the world feeling alive. Perhaps in the future other players could join these
+events for either PVP or coop.
 
 - *Community Input:*
 - 
