@@ -14,9 +14,10 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 
 **Updates and new ideas:** New ideas will be briefly mentioned here, and confirmation or cancellation of a suggestion
-(current version 1.1)
-*Update here! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
+(current version 1.2)
+*Update here (1.1)! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
+*Update here (1.2)! Stealth Mode for raids until the warehpuse/temple added. NPC realionships added!*
 
 
 - **THREAD STARTS HERE!**
@@ -91,7 +92,8 @@ weapons.
  2. (5)[Unconfirmed] Weapon Mods ->
  Weapon mods don't seem to be essential in the TW universe or as needed as other content, but it would be nice to be able to
 customize your weapons with colors, decals and perhaps even some property changing mods, such as laser sights, muzzles and
-stocks. No words from the Devs on this yet.
+stocks. Silencers would also be added if stealth mode is released (missions and gamemodes) No words from the Devs on this
+yet.
 
 - *Balances, Tuning and/or Reworks:*
 -
@@ -370,6 +372,11 @@ Want to have someone playing with you be a family member in game? Family members
 a small portion of your profits from time to time (profits go to neither family member). Your family status will show up on
 your profile, next to your bio! No response on this yet.
 
+ 5. (5)[Unconfirmed] NPC relationships ->
+Rather than just limiting relationships between players, why not allow them to have relationships with npc. Perhaps make the
+potential partner/s customizable? The partner's name (if unique) would still show up in the players bio/profile. No
+confirmation yet.
+
 - *Missions and Gamemodes (Raid included):*
 - 
 
@@ -394,7 +401,9 @@ footrace with implemented parkour, this also sounds great, and can be bet on the
 PVP due to a large number of requests was just simply so hard to imagine in the Sleeping Dogs engine, so I improvised. A
 workaround for 'perma-counters' Would be PVP in a closed map (let's just say the size of a turf right now) between a select
 number of people. Melee is disabled, letting your character only shoot and melee with the gun out (the pistol whip and kick
-for the pistol). Dodges would have to either be disabled also, or the time frame to dodge would be must smaller.
+for the pistol). Dodges would have to either be disabled also, or the time frame to dodge would be must smaller. It seems
+that many things would need to be edited and changed for pvp, so the priority here is 5, simply because the devs need to work
+on the actual game before thinking of pvp!
 
  5. (3)[Unconfirmed] Raid Preplanning and Random missions for Favour ->
 New missions added will help keep the game feeling fresh and new. Missions such as assassination (kill someone, lose cops), 
@@ -403,6 +412,11 @@ New missions added will help keep the game feeling fresh and new. Missions such 
 A feature that can bring a lot of fun to the game either single player or coop, would be the ability to rob people and
 places. Starting from robbing a pedestrian -> a store -> a bank. Each would have their own risks and rewards. Not much news
 on this yet, please let me know if you have any ideas for it!
+
+ 7. (4)[Unconfirmed] Stealth Raids ->
+Allow players to complete Rackets (not the whole raid, since the safehouse and temple would be silly) in stealth mode. Bonus
+xp would be awarded for this. New combat features would be added, such as sneaking, silencers, instant melee takedowns
+(perhaps a quicktime sequence or silent takedown). No Words from the devs on this yet.
 
 
 - *Community Input:*
