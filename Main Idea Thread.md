@@ -18,7 +18,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *Update here (1.1)! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
 
-*Update here (1.2)! Stealth Mode for raids until the warehpuse/temple added. NPC relationships added!*
+*Update here (1.2)! Stealth Mode for raids until the warehpuse/temple added. NPC relationships added! Choosing color of item*
+*bought with gold for ingame cash added!*
 
 
 - **THREAD STARTS HERE!**
@@ -262,6 +263,11 @@ No confirmation of any specific item yet.
 If the community items do come to play, A dev or community vote will decide the favourite set for that specific week (e.g.
 car a with rims c and light b for 15% total discount. Or shirt, shoes and shorts for 15% discount) and it will be put on a
 flash sale for a few hours. No point implementing this until there are more things in the store to choose from.
+
+ 3. (4)[Unconfirmed] Choosing Color of item bought with gold ->
+After purchasing an item bought with gold (clothes, hair, cars, etc) spending ingame cash to recolor your item should be an
+option. Further modification (such as the community customizer, mods for your cars etc) should still be in gold. No word from
+the devs yet!
 
 - *Coop and other Player interaction:*
 - 
