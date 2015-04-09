@@ -324,6 +324,33 @@ You may respawn from the menu (whilst still alive) with no penalty of face loss,
 if you were in one. Just a nice fix to getting stuck, or any bugs showing up in the current beta (unnaccessible rackets etc)
 No words from the devs yet.
 
+ 2. (1)[Unconfirmed] Rackets empty/No spawns ->
+Sometimes when raiding a racket (opening new door, or going upstairs) there will be no npcs there. Players have to run out and back again to have them spawn.
+
+ 3. (2)[Unconfirmed] Gang members stuck running into walls (gang favour cards) ->
+Using a favour card to have gang members support you (unkown if this does the same bug with enforcer help) The members will get stuck at the gate to start the raid, or just run around aimlessly.
+ 
+ 4. (3)[Unconfirmed] Floating Objects ->
+Seen mostly in the gambling den and warehouse, casino slots will be seen floating, or crates will be floating.
+
+ 5. (1)[Unconfirmed] Stuck loading when picking up a favour during raid ->
+If not standing completely still when picking up a favour (unkown if this does the same during free roam) players will get an infinite loading screen, having to restart their TW application.
+ 
+ 6. (1)[Unconfirmed] View changes to follow an NPC ->
+Very rare bug that has occured to a few people (me included) where the camera will follow a random npc (can't control them) making you have to restart.
+ 
+ 7. (1)[Unconfirmed] During raids Jumping from one building to another (such as onto temple) ->
+During raids, it is possible to jump from the top of one building to another. While this seems like a cool feature, you can jump onto not yet completed rackets, breaking the raid or getting you stuck.
+ 
+ 8. (1)[Unconfirmed] Dying whilst Meleeing enemy Enforcer ->
+Another rare bug that has happened to few people, where meleeing an enforcer (dosen't matter your hp) you will instantly die.
+ 
+ 9. (3)[Unconfirmed] Kicking/Ramming an NPC through a wall ->
+Knocking back an NPC, whether by melee, gunshot or car, can sometimes send them through walls.
+ 
+ 10. (2)[Unconfirmed] Enemy NPCS running into walls or on the same spot during Raids ->
+During raid, enemy npcs will sometimes become stuck running into walls, in the air, or on the same spot in the ground.
+
 - *Triad and NPCS:*
 - 
  1. (3)[Unconfirmed] Preplanning of your turfs defence ->
