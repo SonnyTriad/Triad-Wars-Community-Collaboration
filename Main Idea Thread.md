@@ -157,7 +157,7 @@ tier, with garage customization options avaiable for the TW community. Minigames
 available if purchased here. An original idea, so no confirmation from staff as of yet.
 
  3. (4)[Unconfirmed] Expanding on Safe House (read above) ->
- Allow players to add extra floor to their safe house (these will not be seen in a raid) that they can customize. Floors and rooms such as Bath house, Beedroom, Rooftop, Lounge etc should be available to add and customize. Since this is purely cosmetic, this should be in gold. Allow other players to visit. No confirmation yet.
+ Allow players to add extra floor to their safe house (these will not be seen in a raid) that they can customize. Floors and rooms such as Bath house, Beedroom, Garage (above) Rooftop, Lounge etc should be available to add and customize. Since this is purely cosmetic, this should be in gold. Allow other players to visit. No confirmation yet.
 
 - *Racket Tech Tree:*
 - 
