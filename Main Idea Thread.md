@@ -15,7 +15,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 **Updates and new ideas:** New ideas will be briefly mentioned here, and confirmation or cancellation of a suggestion
 (current version 1.1)
-*Update here! Rage and Loyalty bars could be effected negatively or positively by your position in a*
+*Update here! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
 
 
