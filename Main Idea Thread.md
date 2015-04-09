@@ -14,12 +14,16 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 
 **Updates and new ideas:** New ideas will be briefly mentioned here, and confirmation or cancellation of a suggestion
-(current version 1.2)
+(current version 1.3)
 *Update here (1.1)! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
 
 *Update here (1.2)! Stealth Mode for raids until the warehpuse/temple added. NPC relationships added! Choosing color of item*
 *bought with gold for ingame cash added!*
+
+*Update here (1.3)! Animations for interation with players and NPCS added. Player-built missions added!. Bribing the police*
+*added!. Gang members throughout the world added! Random Events in world added! Customization of gang added! PVP rework*
+*topic added!*
 
 
 - **THREAD STARTS HERE!**
@@ -323,7 +327,8 @@ straights of HK, Fighting off 12 very hard NPCs, Delivering a package on foot wh
 This well keep the game feeling fresh and alive for years to come.
 
  8. (3)[Unconfirmed] Player-Player Trading and Selling ->
-Rather than just selling and using resources for your rackets and warehouse, add the option to trade money and resources between players. Help enhance the financial side of TW and increase the social aspects. No confirmation yet.
+Rather than just selling and using resources for your rackets and warehouse, add the option to trade money and resources
+between players. Help enhance the financial side of TW and increase the social aspects. No confirmation yet.
 
 - *Map and Zones:*
 - 
