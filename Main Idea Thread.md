@@ -229,6 +229,9 @@ from the dev team.
 Just a small feature to be added to someones profile that will help immerse the player into the world of TW. Good for rp and
 just having fun in TW, can't really see any downside from it. No response yet.
 
+ 6. (4)[Unconfirmed] Access to forums by your social hub ->
+Not necessary, yet a nice feature to enhance TW. Will allow players to access and post to TW forums (perhaps even accessing the guide forum) straight through their game.
+
 - *Hobbies and Favours:*
 - 
  1. (2)[Unconfirmed] Proper Timer for Favours ->
