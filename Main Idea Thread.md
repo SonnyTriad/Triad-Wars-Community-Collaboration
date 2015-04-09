@@ -298,6 +298,11 @@ relief, but can also contain some useful ones, gestures can be used to quickly w
 then ("careful", "behind you", "take cover" gestures) for serious play, and then some gestures to have fun with, such as
 dances and other miscellaneous things (e.g. Flex, Nod etc).
 
+ 6. (4)[Unconfirmed] Robbing/Mugging ->
+A feature that can bring a lot of fun to the game either single player or coop, would be the ability to rob people and
+places. Starting from robbing a pedestrian -> a store -> a bank. Each would have their own risks and rewards. Not much news
+on this yet, please let me know if you have any ideas for it!
+
 - *Map and Zones:*
 - 
 
@@ -393,6 +398,12 @@ for the pistol). Dodges would have to either be disabled also, or the time frame
 
  5. (3)[Unconfirmed] Raid Preplanning and Random missions for Favour ->
 New missions added will help keep the game feeling fresh and new. Missions such as assassination (kill someone, lose cops), 
+
+ 6. (4)[Unconfirmed] Robbing/Mugging ->
+A feature that can bring a lot of fun to the game either single player or coop, would be the ability to rob people and
+places. Starting from robbing a pedestrian -> a store -> a bank. Each would have their own risks and rewards. Not much news
+on this yet, please let me know if you have any ideas for it!
+
 
 - *Community Input:*
 - 
