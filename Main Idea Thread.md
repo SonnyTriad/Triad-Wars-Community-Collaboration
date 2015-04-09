@@ -333,6 +333,9 @@ between players. Help enhance the financial side of TW and increase the social a
 - *Map and Zones:*
 - 
 
+ 1. (2)[Confirmed] Expanded World ->
+Bigger map, unlocking the whole of Hong Kong. Already confirmed by the devs!
+
 - *Bug Fixes:*
 - 
 
