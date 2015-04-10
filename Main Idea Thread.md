@@ -1,7 +1,8 @@
 # Triad-Wars-Community-Collaboration
 Ideas I have seen requested many times! Helping out the devs with the sorting! - Sonny
-Special Thanks to BridgetKFisher for making this possible :) Also a big thanks to Handsome-Jack and CrowntTheJules for some
-of the ideas here below! Keep in mind many of these suggestions will not be added in (if they even are) for a long time.
+Special Thanks to BridgetKFisher for making this possible :) Also a big thanks to Handsome-Jack, Funkeemonkee and
+CrowntTheJules for some of the ideas here below! Keep in mind many of these suggestions will not be added in (if they even
+are) for a long time.
 
 
 First and foremost I have no legal claims and am not interested in claiming any of the ideas I put here, they are merely
@@ -24,6 +25,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *Update here (1.3)! Animations for interation with players and NPCS added. Player-built missions added!. Bribing the police*
 *added!. Gang members throughout the world added! Random Events in world added! Customization of gang added! PVP rework*
 *topic added!*
+
+*Update here (1.4-2.0)! 
 
 
 - **THREAD STARTS HERE!**
@@ -70,10 +73,10 @@ priority. No words from the devs yet.
  2. (3)[Unconfirmed] Modifying Vehicles ->
 Another highly requested addition by the community, being able modify and make your own one of a kind vehicle (appearance
 wise) would really help the world of TW expand. Paint jobs, Applying custom emblems (see at end of thread), Changing rims,
-and all perfomance mods should eventually be available, to have full control of your ride. Performance mods should not only
-have slight appearance changes (e.g NOS in back seat), but apply changes to the cars performance. Balancing will need to take
-place before any car mod releases (Engine A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). No words from the
-dev on this yet!
+and all perfomance mods should eventually be available, to have full control of your ride. Custom license plates would also
+be great for a unique vehicl. Performance mods should not only have slight appearance changes (e.g NOS in back seat), but
+apply changes to the cars performance. Balancing will need to take place before any car mod releases (Engine A 10%+ speed,
+10%- handling, Engine B 10%-speed 10%+ handling). No words from the dev on this yet!
 
  3. (5)[Unconfirmed] Pink Slips ->
 If racing is added in the future, you would be able to bet many things (see below), however if both parties agree, a high
@@ -157,7 +160,15 @@ tier, with garage customization options avaiable for the TW community. Minigames
 available if purchased here. An original idea, so no confirmation from staff as of yet.
 
  3. (4)[Unconfirmed] Expanding on Safe House (read above) ->
- Allow players to add extra floor to their safe house (these will not be seen in a raid) that they can customize. Floors and rooms such as Bath house, Beedroom, Garage (above) Rooftop, Lounge etc should be available to add and customize. Since this is purely cosmetic, this should be in gold. Allow other players to visit. No confirmation yet.
+ Allow players to add extra floor to their safe house (these will not be seen in a raid) that they can customize. Floors and
+rooms such as Bath house, Beedroom, Garage (above) Rooftop, Lounge etc should be available to add and customize. Since this
+is purely cosmetic, this should be in gold. Allow other players to visit. No confirmation yet.
+
+ 4. (3)[Unconfirmed] Safes or Stashes inside player Safehouses ->
+A great idea from funkeemonkee where when raiding a player, you can choose to also attempt to raid their safe/stash for more
+reward, however it either takes time (30-1min off) or is a hard lockpicking attempt (failure to lockpick gets you arrested).
+This will increase the reward for raiding, however add risk also, causing players to make decisions mid raid as to whether it
+is worth it or not.
 
 - *Racket Tech Tree:*
 - 
@@ -540,8 +551,8 @@ is a good comparison.
  2. (4)[Unconfirmed] Community Made Items ->
 Simply put, Items you can find now in the vehicles tab and clothing, hair, weapons etc, some of these will be made by the
 community. Rather than having thousands of items pouring in, the community will make a pol, voting their favourite 5-10 items
-of the week/month/whatever period of time via screenshots on the forum, and they will added to the game. To prevent legal
-issues, they will either only be available by in game cash (not gold), with official TW items being sold in gold, or TW devs
-will take a 50% tax (or whatever is agreed) from the item (100 gold hair, 50 goes back to devs, 50 to player). There are many
-examples of this model being extremely profitable and encouraging creativity in the community, as seen in CS:GO where
-majority of the guns you buy in cases, are community made, or SecondLife, where 99% of the content is community made.
+of the week/month/whatever period of time via screenshots on the forum, and they will added to the game. Other than very few
+items which could be availale in ingame cash, the rest will still cost gold, giving the creator of item a select amount of
+the profit, another amount going back to the devs. There are many examples of this model being extremely profitable and
+encouraging creativity in the community, as seen in CS:GO where majority of the guns you buy in cases, are community made, or
+SecondLife, where 99% of the content is community made.
