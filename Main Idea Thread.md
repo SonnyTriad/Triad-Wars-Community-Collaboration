@@ -397,6 +397,16 @@ enhance the financial side of TW and increase the social aspects. No confirmatio
  1. (2)[Confirmed] Expanded World ->
 Bigger map, unlocking the whole of Hong Kong. Already confirmed by the devs!
 
+ 2. (4)[Unconfirmed] Turf for triad -> A large turf for each triad, which has many features that will
+enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless
+tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet
+confirmed.
+
+ 3. (4)[Unconfirmed] Hobbie buildings (Expanded in Hobbies) ->
+Buildings that contain various fun things to do (coop compatible). Some of these buildings would be Karaoke (sing to your
+hearts content, with or without friends), Gambling (A gambling house to set wagers for races, fight club, and perhaps some
+random casino games like poker), night club to dance and listen to music (perhaps a player could stream live music).
+
 - *Bug Fixes:*
 - 
 
