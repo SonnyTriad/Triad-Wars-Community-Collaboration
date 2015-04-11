@@ -480,6 +480,14 @@ Knocking back an NPC, whether by melee, gunshot or car, can sometimes send them 
  10. (2)[Unconfirmed] Enemy NPCS running into walls or on the same spot during Raids ->
 During raid, enemy npcs will sometimes become stuck running into walls, in the air, or on the same spot in the ground.
 
+ 11. (4)[Unconfirmed] Visual Bug completing Rackets ->
+Just a small, non-gamebreaking bug where upon completing a Racket, players xp bars will fill to 100% for a second or two
+(only visually). 
+
+ 12. (3)[Unconfirmed] Tackling through the floor ->
+Another non-gamebreaking bug where tackling an npc will briefly bring the npc and player underground, before appearing back
+on the ground (NPC is instant killed). 
+
 - *Triad and NPCS:*
 - 
  1. (3)[Unconfirmed] Preplanning of your turfs defence ->
