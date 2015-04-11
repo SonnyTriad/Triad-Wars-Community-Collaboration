@@ -590,9 +590,10 @@ gamechanger, gives players something to do when everythings on cooldown.
 
  3. (3)[Unconfirmed] Race ->
 Well.. What do you expect? It's a race! Options for a friendly race, betting cash and items, or if you really want to turn up
-the head, betting pink slips (ownership of your car). This can all be set at the Gambling house (hobbie buildings). Options
-for traffic on and off during this would be great too. I saw on a post (sorry cant remember your name) a topic about a
-footrace with implemented parkour, this also sounds great, and can be bet on the same way (just not with pink slips).
+the heat, betting pink slips (ownership of your car). The rules can all be set at the Gambling house (hobbie buildings).
+Options for traffic on and off, modded or unmodded cars and whether weapons are allowed during this would be great too. I saw
+on a post (sorry cant remember your name) about a footrace with implemented parkour, this also sounds great, and can be bet
+on the same way (just not with pink slips).
 
  4. (5)[Unconfirmed] PVP??? ->
 PVP due to a large number of requests was just simply so hard to imagine in the Sleeping Dogs engine, so I improvised. A
