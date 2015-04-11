@@ -26,10 +26,11 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *added!. Gang members throughout the world added! Random Events in world added! Customization of gang added! PVP rework*
 *topic added!*
 
-*Update here (1.4-2.0)! Custom license plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
+*Update here (1.4-2.1)! Custom license plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
 *and Stashes, Taking/Consuming substances, Triad Specific buildings, Reworks and Balances (camera fixes, Npcs do more damage*
 *with guns, recoil etc), bug where tackling will briefly fall through the floor, Substance usage, Triad owned nightclubs,*
-*bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added. Also a bug tool!*
+*bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added. Also a bug tool*
+*and button remapping!*
 
 
 - **THREAD STARTS HERE!**
