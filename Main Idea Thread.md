@@ -28,14 +28,14 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 *Update here (1.4-2.0)! Custom lisence plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
 *and Stashes, Taking/Consuming substances, Triad Specific buildings, Reworks and Balances (camera fixes, Npcs do more damage*
-*with guns, recoil etc), bug where tackling will briefly fall through the floor, Triad owned nightclubs, bug where xp bar*
-*will visually fill 100% when completing rackets, Walking Styles and Race options added!*
+*with guns, recoil etc), bug where tackling will briefly fall through the floor, Substance usage, Triad owned nightclubs,*
+*bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added!*
 
 
 - **THREAD STARTS HERE!**
 
 
-- *Character Customization and Loadout:*
+- *Character, Customization and Loadout:*
 -
 
  1. (2)[Confirmed] Female Character ->
@@ -69,6 +69,12 @@ Another unnecessary yet nice feature to have. Having a few variants of movement 
 the same), Including a walking animation, as well as jogging and running. Only a few variants need to be included (3-4) as
 each will give off a distinct aura for their character. Styles such as Tough/Threatening, Classy, Default, Crazy etc. Since
 this would be classed as customization, there should be no problem selling these styles in gold. 
+
+ 5. (5)[Unconfirmed] Substance Usage ->
+Whether this affects the actual gameplay (vision imparement, slower movement etc), It is just a immersive feature for the
+world of TW. Consuming alcohol, sniffing a line or popping a pill, your character should be able to do it all as he/she is a
+crime lord after all. Not necessary for gameplay, but would be a nice little feature and help players really feel like they
+are in the gang world.
 
 - *Vehicles and Customization:*
 -
