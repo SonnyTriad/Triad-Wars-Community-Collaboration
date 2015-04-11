@@ -189,6 +189,9 @@ Rather than just allowing players to trade in favours for gold, why not allow th
 crafting 4 common favours will give one random rare ravour -> 4 rares will give an ultra rare and so on. This will give
 players a reason to collect multiple favours and give every favour a slightly increased value to the TW world.
 
+ 12. (1)[Unconfirmed] Button Remapping ->
+A simple yet necessary feature which will allow players to remapp their buttongs. Quite important for keyboard users.
+
 - *Safehouse and Customization:*
 - 
 
