@@ -26,7 +26,10 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *added!. Gang members throughout the world added! Random Events in world added! Customization of gang added! PVP rework*
 *topic added!*
 
-*Update here (1.4-2.0)! 
+*Update here (1.4-2.0)! Custom lisence plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
+*and Stashes, Taking/Consuming substances, Triad Specific buildings, Reworks and Balances (camera fixes, Npcs do more damage*
+*with guns, recoil etc), bug where tackling will briefly fall through the floor, bug where xp bar will visually fill 100%*
+*when completing rackets, Walking Styles and Race options added!*
 
 
 - **THREAD STARTS HERE!**
@@ -61,6 +64,12 @@ will be skill trees for different moves, however no word on different fighting
 styles in its entirety yet. If you count the fighting styles already in the game a mix of karate, wing chun and jujitsu would
 be included If I am not wrong.
 
+ 4. (5)[Unconfirmed] Walking Style ->
+Another unnecessary yet nice feature to have. Having a few variants of movement to choose from (vaulting animations can stay
+the same), Including a walking animation, as well as jogging and running. Only a few variants need to be included (3-4) as
+each will give off a distinct aura for their character. Styles such as Tough/Threatening, Classy, Default, Crazy etc. Since
+this would be classed as customization, there should be no problem selling these styles in gold. 
+
 - *Vehicles and Customization:*
 -
 
@@ -85,7 +94,8 @@ considered.
 
 4. (3)[Unconfirmed] Renting ->
 Perhaps being able to rent a car would help the immersion of the game, yet also allow some players to test cars before
-permanently buying cars (renting will be ingame cash and give the player a 1hour favour of their selected vehicle)
+permanently buying cars (renting will be ingame cash and give the player a 1hour favour of their selected vehicle). Obviously
+rented vehicles won't be able to be modded, customized, or used in specific events (races, derby etc).
 
 - *Weapons and Customization:*
 - 
@@ -93,10 +103,10 @@ permanently buying cars (renting will be ingame cash and give the player a 1hour
  1. (3)[Unconfirmed] Greater range of weapons ->
 To be at home in the Triad Wars atmosphere. we need more weapons, some makeshift weapons that give of that thug vibe, some of
 which the elite members or professional hitmen would use. (:P). To add to this atmosphere melee weapons such as steel chains,
-dual small kitchen knives, nunchucks, quarterstaff, sledgegammer, 2x4 wooden plank and perhaps brass knuckles are just some
-of the many weapons that could enhance the TW world. There are currently not many requests for ranged weapons, but the two I
-saw requested, was a sawn off shotgun and duel wielding of pistols. No confirmation from the devs currently of upcoming
-weapons.
+butterfly knife, dual small kitchen knives, nunchucks, quarterstaff, sledgegammer, 2x4 wooden plank and perhaps brass
+knuckles are just some of the many weapons that could enhance the TW world. There are currently not many requests for ranged
+weapons, but the two I saw requested, was a sawn off shotgun and duel wielding of pistols. No confirmation from the devs
+currently of upcoming weapons.
 
  2. (5)[Unconfirmed] Weapon Mods ->
  Weapon mods don't seem to be essential in the TW universe or as needed as other content, but it would be nice to be able to
@@ -127,7 +137,7 @@ devs decisions. This is simply a placeholder) 10xp bonus for a headshot, 100xp f
 Nothing to hard to implement, but relieves some annoyance from having to spam click in later levels. Would allow players to
 collect all finished queues from a racket, and fill it up again. No confirmation yet.
 
- 4. (2)[Unconfirmed] Chance to lose staff in raid lowered, rather than 100% rate ->
+ 4. (2)[Unconfirmed] Chance to lose staff when raided lowered, rather than 100% rate ->
 Makes it easier to maintain a healthy staff, as staff cards can sometimes be difficult to get. Would give staff a decent
 chance of surviving an attack. No confirmation yet.
 
@@ -139,6 +149,33 @@ warehouse. They would also be able to buy a select amount. No confirmation yet.
 In the universe of TW why limit yourself to only a certain amount of contacts. Friends list should be expanded and the
 ability to cancel pending friend requests also would be useful (ie Accidently added wrong username, or added an AI). No
 response yet.
+
+ 7. (3)[Unconfirmed] Recoil ->
+With no recoil in the game, it makes it incredibly easy to easily wipe out rackets with consecutive headshots fired less than
+seconds apart. Whilst it wouldn't be a good idea to rock your whole screen with recoil, a small lift (perhaps even a recoil
+reduction skill added in too) when firing your gun would be nice. No confirmation yet.
+
+ 8. (2)[Unconfirmed] NPC gun damage ->
+Currently, players can play through every raid without ever having the need to take cover. Getting killed in one to two 
+shots would be incredibly annoying, but increasing the NPC's damage with guns (5-10% more) would be nice to the point where
+players would have to take cover, planning their approach and chosing when to rush in, rather than just effortlessly killing
+groups of armed thugs like they were flies.
+
+ 9. (1)[Unconfirmed] Camera Fixes ->
+Generally the camera for TW is quite good, however when close to a wall, in a tight space or fighting hand to hand, many
+issues can arise. When close to a wall or in a tight space, the camera will lock, not allowing the player to adjust the
+angle, sometimes leaving players looking at walls, away from their character, not allowing players to change their combat
+target and/or zooming in or out, giving very awkard views of the surroundings. The same can also be said when using firearms,
+as it will auto zoom in and out, forcing players to readjust their aim, wasting time and possibly getting them killed. (Aim
+view is usually great, but tight spaces in rackets can cause issues as stated).
+
+ 10. (1)[Unconfirmed] Player movement on foot (expanded) ->
+Expanding on topic 1. in this section, auto sprint and auto climb are two very annoying issues that occur only on keyboard
+when players press/hold the space key. Rather than just sprinting stopping when the shift key is released, characters will
+continue to sprint, forcing players to stop moving to be able to jog/walk again. When using an xbox controller this is not
+the case, as characters will stop sprinting immediately. Another issue with the shift key is auto climbing, causing
+characters to auto vault over objects while sprinting (and even a few seconds after pressing the shift key!),run up walls and
+sometimes even get stuck in objects.
 
 - *Safehouse and Customization:*
 - 
