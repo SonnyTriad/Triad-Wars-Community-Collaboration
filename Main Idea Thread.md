@@ -29,7 +29,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *Update here (1.4-2.0)! Custom license plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
 *and Stashes, Taking/Consuming substances, Triad Specific buildings, Reworks and Balances (camera fixes, Npcs do more damage*
 *with guns, recoil etc), bug where tackling will briefly fall through the floor, Substance usage, Triad owned nightclubs,*
-*bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added!*
+*bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added. Also a bug tool!*
 
 
 - **THREAD STARTS HERE!**
@@ -487,6 +487,9 @@ Just a small, non-gamebreaking bug where upon completing a Racket, players xp ba
  12. (3)[Unconfirmed] Tackling through the floor ->
 Another non-gamebreaking bug where tackling an npc will briefly bring the npc and player underground, before appearing back
 on the ground (NPC is instant killed). 
+
+ 13. (1)[Unconfirmed] Bug Submission Through Game ->
+Just a simple tool added to game menu that allows players to submit bugs, exploits and other issues they find.
 
 - *Triad and NPCS:*
 - 
