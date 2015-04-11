@@ -102,7 +102,12 @@ considered.
 4. (3)[Unconfirmed] Renting ->
 Perhaps being able to rent a car would help the immersion of the game, yet also allow some players to test cars before
 permanently buying cars (renting will be ingame cash and give the player a 1hour favour of their selected vehicle). Obviously
-rented vehicles won't be able to be modded, customized, or used in specific events (races, derby etc).
+rented vehicles won't be able to be modded, customized, or used in specific events (races, derby etc). The possibility for
+players to rent their vehicles to other players would be nice too.
+
+ 5. (2)[Unconfirmed] Player Vehicle sign on minimap/map ->
+Another simple yet useful feature that will allow players to see where they last left their vehicle. Unconfirmed at the
+current time.
 
 - *Weapons and Customization:*
 - 
@@ -191,6 +196,10 @@ players a reason to collect multiple favours and give every favour a slightly in
 
  12. (1)[Unconfirmed] Button Remapping ->
 A simple yet necessary feature which will allow players to remapp their buttongs. Quite important for keyboard users.
+
+ 13. (2)[Unconfirmed] Player Vehicle sign on minimap/map ->
+Another simple yet useful feature that will allow players to see where they last left their vehicle. Unconfirmed at the
+current time.
 
 - *Safehouse and Customization:*
 - 
@@ -494,6 +503,8 @@ on the ground (NPC is instant killed).
 
  13. (1)[Unconfirmed] Bug Submission Through Game ->
 Just a simple tool added to game menu that allows players to submit bugs, exploits and other issues they find.
+
+
 
 - *Triad and NPCS:*
 - 
