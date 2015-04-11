@@ -15,7 +15,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 
 **Updates and new ideas:** New ideas will be briefly mentioned here, and confirmation or cancellation of a suggestion
-(current version 1.3)
+(current version 2.0)
 *Update here (1.1)! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
 
@@ -49,8 +49,8 @@ Allowing the playerbase to further modify their TW character's body and face. He
 eyebrow style, scars, eyes, ears etc. This is incredibly important to the game, as it allows players to make their own
 characer, unique to every other player in the world. A Unique character will stand out, allow potential roleplay or storyline
 to be built and keep players interested in the game. Although some aspects of this should be monetized, such as hairstyles
-and tattoos (leaving very few as starters), the majority of the body customization and facial customization should be free.
-No answer to this request as of yet.
+and tattoos (leaving very few as starters), the majority of the base body customization and facial customization should be
+free. No answer to this request as of yet.
  
  3. (4)[Semi-Confirmed] Fighting Styles and Skills ->
 New fighting styles to choose from (muay thai, judo, wrestling etc), skill trees for moves and with that, different
@@ -81,11 +81,11 @@ priority. No words from the devs yet.
 
  2. (3)[Unconfirmed] Modifying Vehicles ->
 Another highly requested addition by the community, being able modify and make your own one of a kind vehicle (appearance
-wise) would really help the world of TW expand. Paint jobs, Applying custom emblems (see at end of thread), Changing rims,
-and all perfomance mods should eventually be available, to have full control of your ride. Custom license plates would also
-be great for a unique vehicl. Performance mods should not only have slight appearance changes (e.g NOS in back seat), but
-apply changes to the cars performance. Balancing will need to take place before any car mod releases (Engine A 10%+ speed,
-10%- handling, Engine B 10%-speed 10%+ handling). No words from the dev on this yet!
+wise) would really help the world of TW expand. Paint jobs, Roll cages, Applying custom emblems (see at end of thread),
+Changing rims, and all perfomance mods should eventually be available, to have full control of your ride. Custom license
+plates would also be great for a unique vehicl. Performance mods should not only have slight appearance changes (e.g NOS in
+back seat), but apply changes to the cars performance. Balancing will need to take place before any car mod releases (Engine
+A 10%+ speed, 10%- handling, Engine B 10%-speed 10%+ handling). No words from the dev on this yet!
 
  3. (5)[Unconfirmed] Pink Slips ->
 If racing is added in the future, you would be able to bet many things (see below), however if both parties agree, a high
@@ -103,7 +103,7 @@ rented vehicles won't be able to be modded, customized, or used in specific even
  1. (3)[Unconfirmed] Greater range of weapons ->
 To be at home in the Triad Wars atmosphere. we need more weapons, some makeshift weapons that give of that thug vibe, some of
 which the elite members or professional hitmen would use. (:P). To add to this atmosphere melee weapons such as steel chains,
-butterfly knife, dual small kitchen knives, nunchucks, quarterstaff, sledgegammer, 2x4 wooden plank and perhaps brass
+butterfly knives, dual small kitchen knives, nunchucks, quarterstaff, sledgegammer, 2x4 wooden plank and perhaps brass
 knuckles are just some of the many weapons that could enhance the TW world. There are currently not many requests for ranged
 weapons, but the two I saw requested, was a sawn off shotgun and duel wielding of pistols. No confirmation from the devs
 currently of upcoming weapons.
@@ -241,8 +241,8 @@ confirmation yet.
 
  3. (4)[Unconfirmed] Turf for triad -> A large turf for each triad, which has many features that will
 enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless
-tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Not yet
-confirmed.
+tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Hobbie
+buildings (seen below) should either be built in turfs for triads or just included in world. Not yet confirmed.
 
 - *External Applications and Websites/Forums:*
 -
@@ -294,7 +294,7 @@ the guide forum) straight through their game.
 Rather than just showing the card is active (e.g. card a (72 hours) ), show the remaining time left on it (e.g. card A, 72
 hours, 10 hours remaining). 
 
- 2. (4)[Unconfirmed] Hobbie buildings ->
+ 2. (4)[Unconfirmed] Hobbie buildings (expanded directly below) ->
 Buildings that contain various fun things to do (coop compatible). Some of these buildings would be Karaoke (sing to your
 hearts content, with or without friends), Gambling (A gambling house to set wagers for races, fight club, and perhaps some
 random casino games like poker), night club to dance and listen to music (perhaps a player could stream live music).
@@ -303,12 +303,21 @@ random casino games like poker), night club to dance and listen to music (perhap
 The fight club from the beloved Sleeping Dogs, but with a twist. Come to the fight club to practise your combos, new moves
 and spar npcs. But most importantly, Train your fighter. This all new addition to Fight Club will allow players to train
 their own npc, level him/her up and eventually fight another players npc (which can be watched and bet on). This will be sure
-to create a new renewed love the the fight club, Sifu Kwok would be proud!
+to create a new renewed love the the fight club, Sifu Kwok would be proud! (included after hobbie buildings)
 
  4. (5)[Unconfirmed] The Registry -> 
-If community content is accepted and begins taking shape, the monthly pol to accept new items to be added into the game will
+If community content is accepted and begins taking shape, the monthly poll to accept new items to be added into the game will
 need to take place somewhere. The registry does that for you, showing the top 100 or so entries, vote for what you want in
-TW! No point adding this unless community content goes ahead.
+TW! No point adding this unless community content goes ahead. (included after hobbie buildings)
+
+ 5. (5)[Unconfirmed] Car Derby ->
+What's not to love about a car derby built into TW? A Car derby is when two or more people (players) will enter an arena in
+their cars. The objective is to ram, flip, damage and just destroy the other contestants cars. The last player left will be
+victorious, receiving a reward of some sort. This could be integrated into TW by either accessing a match through the
+gambling house (seen below) or an inbuilt arena in the world or a triad's turf. Perhaps Derby points could be rewarded to a
+victor of a match, to which they can spend towards rewards at the Derby store (e.g. 10 Derby points for 100k cash, or a
+Unique Derby hat.)
+
 
 - *Store and Events:*
 - 
@@ -378,8 +387,9 @@ straights of HK, Fighting off 12 very hard NPCs, Delivering a package on foot wh
 This well keep the game feeling fresh and alive for years to come.
 
  8. (3)[Unconfirmed] Player-Player Trading and Selling ->
-Rather than just selling and using resources for your rackets and warehouse, add the option to trade money and resources
-between players. Help enhance the financial side of TW and increase the social aspects. No confirmation yet.
+Rather than just selling and using resources for your rackets and warehouse, add the option to trade resources
+between players (perhaps money too, however it would need to near the cost of resources to avoid exploitation). It would help
+enhance the financial side of TW and increase the social aspects. No confirmation yet.
 
 - *Map and Zones:*
 - 
