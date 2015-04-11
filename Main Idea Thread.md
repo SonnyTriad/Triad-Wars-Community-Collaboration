@@ -26,7 +26,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *added!. Gang members throughout the world added! Random Events in world added! Customization of gang added! PVP rework*
 *topic added!*
 
-*Update here (1.4-2.0)! Custom lisence plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
+*Update here (1.4-2.0)! Custom license plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
 *and Stashes, Taking/Consuming substances, Triad Specific buildings, Reworks and Balances (camera fixes, Npcs do more damage*
 *with guns, recoil etc), bug where tackling will briefly fall through the floor, Substance usage, Triad owned nightclubs,*
 *bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added!*
@@ -348,8 +348,9 @@ could be any combination of these and inbetween. If free roam/Coop in introduced
 triad members to relax whilst waiting for the next raid or queue on a racket.
 
  9. (4)[Unconfirmed] Gambling House/Casino ->
- 
-
+The Central hub for all hobbies/events (coop or otherwise) that will use bets (money, items, cars etc). This will be where
+you set up races, bets for various events (still accessible from their buildings, though bettable through the gambling
+house). Mini games for single player and coop could also be added here, such as poker, mahjong etc. Gamling houses would be available in world and/or at a triads turf.
  
 - *Store and Events:*
 - 
