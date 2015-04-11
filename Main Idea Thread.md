@@ -28,8 +28,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 *Update here (1.4-2.0)! Custom lisence plates, Car Derby, Expansion on Hobbie buildings, Crafting System with favours, Safes*
 *and Stashes, Taking/Consuming substances, Triad Specific buildings, Reworks and Balances (camera fixes, Npcs do more damage*
-*with guns, recoil etc), bug where tackling will briefly fall through the floor, bug where xp bar will visually fill 100%*
-*when completing rackets, Walking Styles and Race options added!*
+*with guns, recoil etc), bug where tackling will briefly fall through the floor, Triad owned nightclubs, bug where xp bar*
+*will visually fill 100% when completing rackets, Walking Styles and Race options added!*
 
 
 - **THREAD STARTS HERE!**
@@ -177,6 +177,11 @@ the case, as characters will stop sprinting immediately. Another issue with the 
 characters to auto vault over objects while sprinting (and even a few seconds after pressing the shift key!),run up walls and
 sometimes even get stuck in objects.
 
+ 11. (3)[Unconfirmed] Favour Crafting ->
+Rather than just allowing players to trade in favours for gold, why not allow them to craft favours from others? For example,
+crafting 4 common favours will give one random rare ravour -> 4 rares will give an ultra rare and so on. This will give
+players a reason to collect multiple favours and give every favour a slightly increased value to the TW world.
+
 - *Safehouse and Customization:*
 - 
 
@@ -294,23 +299,28 @@ the guide forum) straight through their game.
 Rather than just showing the card is active (e.g. card a (72 hours) ), show the remaining time left on it (e.g. card A, 72
 hours, 10 hours remaining). 
 
- 2. (4)[Unconfirmed] Hobbie buildings (expanded directly below) ->
+ 2. (3)[Unconfirmed] Favour Crafting ->
+Rather than just allowing players to trade in favours for gold, why not allow them to craft favours from others? For example,
+crafting 4 common favours will give one random rare ravour -> 4 rares will give an ultra rare and so on. This will give
+players a reason to collect multiple favours and give every favour a slightly increased value to the TW world.
+
+ 3. (4)[Unconfirmed] Hobbie buildings (expanded directly below) ->
 Buildings that contain various fun things to do (coop compatible). Some of these buildings would be Karaoke (sing to your
 hearts content, with or without friends), Gambling (A gambling house to set wagers for races, fight club, and perhaps some
 random casino games like poker), night club to dance and listen to music (perhaps a player could stream live music).
 
- 3. (4)[Unconfirmed] The Fight Club ->
+ 4. (4)[Unconfirmed] The Fight Club ->
 The fight club from the beloved Sleeping Dogs, but with a twist. Come to the fight club to practise your combos, new moves
 and spar npcs. But most importantly, Train your fighter. This all new addition to Fight Club will allow players to train
 their own npc, level him/her up and eventually fight another players npc (which can be watched and bet on). This will be sure
 to create a new renewed love the the fight club, Sifu Kwok would be proud! (included after hobbie buildings)
 
- 4. (5)[Unconfirmed] The Registry -> 
+ 5. (5)[Unconfirmed] The Registry -> 
 If community content is accepted and begins taking shape, the monthly poll to accept new items to be added into the game will
 need to take place somewhere. The registry does that for you, showing the top 100 or so entries, vote for what you want in
 TW! No point adding this unless community content goes ahead. (included after hobbie buildings)
 
- 5. (5)[Unconfirmed] Car Derby ->
+ 6. (5)[Unconfirmed] Car Derby ->
 What's not to love about a car derby built into TW? A Car derby is when two or more people (players) will enter an arena in
 their cars. The objective is to ram, flip, damage and just destroy the other contestants cars. The last player left will be
 victorious, receiving a reward of some sort. This could be integrated into TW by either accessing a match through the
@@ -318,7 +328,23 @@ gambling house (seen below) or an inbuilt arena in the world or a triad's turf. 
 victor of a match, to which they can spend towards rewards at the Derby store (e.g. 10 Derby points for 100k cash, or a
 Unique Derby hat.)
 
+ 7. (5)[Unconfirmed] Karaoke Bar ->
+Karaoke as mentioned many times throughout this collaboration list, has been highly requested by the community as a
+single/coop player activity. With a Karaoke Bar located either in a triad turf or in world, this would be where players would
+take a break from the gangster life, singing to their hearts content about love lost and their childhood :P.
 
+ 8. (5)[Unconfirmed] Night Club ->
+A great idea suggested by a few of my TW friends, where a triad will be able to own and manage a nightclub, choosing what
+they want to build,focus on. For example one nightclub could be filled with drugs, club music and strippers if a triad
+focuses mainly on their drug trade and aggression, whilst another club would be an elite lounge for the rich and famous, for
+the Triad that focuses on the Black Market and blackmail. Obviously these are just examples, and a Triad owned nightclub
+could be any combination of these and inbetween. If free roam/Coop in introduced, it would be a nice place for friends and
+triad members to relax whilst waiting for the next raid or queue on a racket.
+
+ 9. (4)[Unconfirmed] Gambling House/Casino ->
+ 
+
+ 
 - *Store and Events:*
 - 
 
