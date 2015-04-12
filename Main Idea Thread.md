@@ -114,7 +114,7 @@ permanently buying cars (renting will be ingame cash and give the player a 1hour
 rented vehicles won't be able to be modded, customized, or used in specific events (races, derby etc). The possibility for
 players to rent their vehicles to other players would be nice too.
 
- 5. (2)[Unconfirmed] Player Vehicle sign on minimap/map ->
+ 5. (2)[Unconfirmed] Player Vehicle marker on minimap/map ->
 Another simple yet useful feature that will allow players to see where they last left their vehicle. Unconfirmed at the
 current time.
 
