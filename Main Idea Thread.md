@@ -15,7 +15,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 
 **Updates and new ideas:** New ideas will be briefly mentioned here, and confirmation or cancellation of a suggestion
-(current version 2.0)
+(current version 2.3)
 *Update here (1.1)! Rage and Loyalty bars could be effected negatively or positively due to your involvement in a*
 *triad gang (rivals, allie etc)*
 
@@ -31,6 +31,10 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *with guns, recoil etc), bug where tackling will briefly fall through the floor, Substance usage, Triad owned nightclubs,*
 *bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added. Also a bug tool*
 *and button remapping!*
+
+*Update here 2.2-2.3)! Miscellaneous animations such as dancing and laughing, bug fixes, Car map marker, Saving outfits,*
+*Revenge raids, NPC variants and events, working TVs, new NPC variants, More NPC events, Warning when your demolish, AI*
+*awareness system improves, Overlay names for weapon, vehicle and location, Buffing Exports and Crime Scene Revamps added!*
 
 
 - **THREAD STARTS HERE!**
@@ -76,6 +80,11 @@ Whether this affects the actual gameplay (vision imparement, slower movement etc
 world of TW. Consuming alcohol, sniffing a line or popping a pill, your character should be able to do it all as he/she is a
 crime lord after all. Not necessary for gameplay, but would be a nice little feature and help players really feel like they
 are in the gang world.
+
+ 6. (6)[Unconfirmed] Miscellaneous animations ->
+Whether this will be added in later as more features are introduced or as a standalone addition, animations such as laughing,
+dancing, bowing etc. that can be used by your character would help enhance social features and immerse players in their
+gameplay.
 
 - *Vehicles and Customization:*
 -
