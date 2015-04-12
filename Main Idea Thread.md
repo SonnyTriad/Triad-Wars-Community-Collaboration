@@ -34,7 +34,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 *Update here 2.2-2.3)! Miscellaneous animations such as dancing and laughing, bug fixes, Car map marker, Saving outfits,*
 *Revenge raids, NPC variants and events, working TVs, new NPC variants, More NPC events, Warning when your demolish, AI*
-*awareness system improves, Overlay names for weapon, vehicle and location, Buffing Exports and Crime Scene Revamps added!*
+*awareness system improves, Overlay names for weapon, Skill indicators, vehicle and location, Buffing Exports, Crime*
+*Scene Revamps and racket participation added!*
 
 
 - **THREAD STARTS HERE!**
@@ -90,6 +91,10 @@ gameplay.
 Adding the ability to save your outfits would be very useful, as it not only saves time swtiching in between clothes, but
 allows players to sort their clothing inventory. Having this feature in the game would only be more and more useful as time
 goes on and more clothing is added.
+
+ 8. (2)[Unconfirmed] Skill indicators ->
+At the current time, many players are unaware that they can upgrade their firearms tree, scroll down etc. A simple arrow
+indicating that you are able to browse through the skill set would be sufficient in fixing this issue.
 
 - *Vehicles and Customization:*
 -
@@ -215,7 +220,32 @@ A simple yet necessary feature which will allow players to remapp their buttongs
 Another simple yet useful feature that will allow players to see where they last left their vehicle. Unconfirmed at the
 current time.
 
-- *Safehouse and Customization:*
+ 14. (2)[Unconfirmed] Skill indicators ->
+At the current time, many players are unaware that they can upgrade their firearms tree, scroll down etc. A simple arrow
+indicating that you are able to browse through the skill set would be sufficient in fixing this issue.
+
+ 15. (2)[Unconfirmed] Added overlay for weapon, car and location ->
+Another simple addition that will help the game reach its full potential. (thanks to Niu-Fu-Long). An overlay added that will
+briefly display what vehicle players are using, what weapon (name underneath gun symbol) and what location they are currently
+in, rather than having to browse the map.
+
+ 16. (1)[Unconfirmed] Buffing Exports ->
+Exports, as they currently are in the beta (high levels) offer rewards less than the actual cost of the resources. This is a
+serious issue, as exports are being completely ignored. A buff in cash or face reward would balance this issue and smooth it
+out.
+
+ 17. (3)[Unconfirmed] Crime Scene Rework (thanks to LeavingLasVegas) ->
+Paying respects to your friends could be a little more significant with a few changes, adding to the overal concept and
+importance of the crime scenes. Instead of being merely a chalk outline at their death location, make it be a shrine erected
+in the vicinity of where they died. By using a common "nearest vicinity" methodology, you don't have to worry about weird
+collision spawns due to players dying in odd locations. Have flags (game objects) placed at notable areas in the map. When a
+player dies, their death location is tied to the nearest flag (game object) to activate a memorial for their friends.
+Visually, make it so that a few of their affiliated gang members are hanging around at the memorial. A big wreath with
+mementos scattered about, incense burning and maybe have a picture of their avatar on the memorial wreath. This would make
+the mechanic a lot more "impactful" to the player, as it is a much more stimulating and active experience than just seeing a
+chalk outline and moving on.
+
+- *Safehouse, Furniture and Customization:*
 - 
 
  1. (4)[Unconfirmed] Safe House customization ->
@@ -245,6 +275,12 @@ reward, however it either takes time (30-1min off) or is a hard lockpicking atte
 This will increase the reward for raiding, however add risk also, causing players to make decisions mid raid as to whether it
 is worth it or not.
 
+ 5. (5)[Unconfirmed] TV display ->
+Just a nice small feature to make TW feel alive. All the televisions in the game at the moment are off, killing the vibe of
+the world of HK. Small loops of different displays (news, weather, random scenes and even pictures) would help to liven and
+enrich the general experience. Perhaps in the future even adding in live news of a friend or player raiding/escaping the
+police would be possible.
+
 - *Racket Tech Tree:*
 - 
 
@@ -263,6 +299,13 @@ eachother being stacked. (for example a smuggling building stacked on a fishing 
 as of yet if bracket managers should be allowed on the stack. No response yet as i assume devs will be busy with the release
 of the next racket branch.
 
+ 3. (4)[Unconfirmed] Racket Participation Expanded (thanks to LeavingLasVegas) ->
+Addind a feature to participate in your rackets, or receive specific unique missions for each racket would help to increase
+importance of each racket to the player and keep them invested in bettering their turf. Features could be added such as
+participating in cock fights, or even training your own chicken for the Cock Fighting racket, Going around town and
+manhandling pork bun vendors for a profit cut for the pork bun racket and so on. These are just a few features and
+possibilities that could change the way players interact with and focus on their rackets in TW.
+
 - *Turf and Turf Manager:*
 -
 
@@ -277,10 +320,16 @@ style of their rackets and warehouse (perhaps even the outside of the safehouse)
 traditional chinese, players should have a choice of what theme they'd like for their turf. Another original idea, so no
 confirmation yet.
 
- 3. (4)[Unconfirmed] Turf for triad -> A large turf for each triad, which has many features that will
+ 3. (4)[Unconfirmed] Turf for triad -> 
+A large turf for each triad, which has many features that will
 enchance the coop (potential free roam and pvp) experience. The warehouse in this turf should allow for limitless
 tradingbetween the gang. Other buildings in this turf may include a gang base, nightclub, coop activities etc. Hobbie
 buildings (seen below) should either be built in turfs for triads or just included in world. Not yet confirmed.
+
+ 4. (1)[Unconfirmed] Confirmation or Warning when demolishing turf with staff/managers ->
+Giving an extra confirmation prompt or warning when demolishing rackets with staff would help players greatly to avoid
+removing rackets that have staff/managers, therefore losing valuable favours.
+
 
 - *External Applications and Websites/Forums:*
 -
@@ -518,6 +567,9 @@ on the ground (NPC is instant killed).
  13. (1)[Unconfirmed] Bug Submission Through Game ->
 Just a simple tool added to game menu that allows players to submit bugs, exploits and other issues they find.
 
+ 14. (1)[Unconfirmed] NPcs during raids (rackets) will stand still for a few seconds ->
+This allows players to clear racket floors before the npcs even have a chance to react. This dosent happen to all rackets and
+floors, but is still a big problem.
 
 
 - *Triad and NPCS:*
@@ -578,6 +630,15 @@ Taking hold of one of the features from the Sleeping Dog game, your character wo
 world, companion during free roam etc) either obtained via upgrade or through currency. A nice immersive feature that would
 really make players feel that their gang is alive and active.
 
+ 10. (5)[Unconfirmed] New NPC variants ->
+Adding in just a few more npc types would help to liven the world. There is already a nice variety, however a few more would
+always be nice (e.g hobo, construction worker etc.). Unconfirmed at the moment.
+
+ 11. (5)[Unconfirmed] NPC events ->
+Rather than just having random events revolve around the player, a few random events focusing on npcs would not only give off
+the impression that the TW world is constantly awake, but keep the world from feeling bland and repetetive. Things such as
+police arresting criminals, street fights, hobos begging for money, couples walking hand in hand, NPC group outings are just
+a few possibilites that would liven the streets of TW.
 
 - *Social Interaction and Romances:*
 - 
@@ -597,7 +658,8 @@ would also enhance any possible RP and just immerse people into the TW universe.
  3. (4)[Unconfirmed] Hate/Revenge Bar ->
 Sick of the same guy raiding you over and over? Or just cant beat someones turf, everytime you lose face to someone, you can
 rage points towards them. Upon filling, you will get the choice of sending a well armed ambush after them, or some backup the
-next time you raid that person. No word from the devs yet.
+next time you raid that person. Allowing players to revenge raid would also be a realistic and immersive feature. No word
+from the devs yet.
 
  4. (4)[Unconfirmed] Family ->
 Want to have someone playing with you be a family member in game? Family members will generate loyalty quicker, but will take
@@ -662,10 +724,14 @@ Allowing players to customize random missions (single player and multiplayer), w
 straights of HK, Fighting off 12 very hard NPCs, Delivering a package on foot whilst multiple ambushes try to stop you etc.
 This well keep the game feeling fresh and alive for years to come.
 
- 9. (4)[Unconfirmed] Random Events In World ->
+ 9. (4)[Unconfirmed] Random Events In World (see above for npc events) ->
 Random events during free roam, things that were included in Sleeping dogs and many others such as stop a theif, help gang
 member fend off enemies etc. This will keep the world feeling alive. Perhaps in the future other players could join these
 events for either PVP or coop.
+
+ 10. (3)[Unconfirmed] Revenge raids ->
+A feature which allows players (and their triad in the future) to raid/have a special interaction with players that have
+raided them. See the revenge bar above for more info on how this could inpact the social aspects of the game. 
 
 - *Community Input:*
 - 
