@@ -81,10 +81,15 @@ world of TW. Consuming alcohol, sniffing a line or popping a pill, your characte
 crime lord after all. Not necessary for gameplay, but would be a nice little feature and help players really feel like they
 are in the gang world.
 
- 6. (6)[Unconfirmed] Miscellaneous animations ->
+ 6. (5)[Unconfirmed] Miscellaneous animations ->
 Whether this will be added in later as more features are introduced or as a standalone addition, animations such as laughing,
 dancing, bowing etc. that can be used by your character would help enhance social features and immerse players in their
 gameplay.
+
+ 7. (3)[Unconfirmed] Saving outfits ->
+Adding the ability to save your outfits would be very useful, as it not only saves time swtiching in between clothes, but
+allows players to sort their clothing inventory. Having this feature in the game would only be more and more useful as time
+goes on and more clothing is added.
 
 - *Vehicles and Customization:*
 -
@@ -108,7 +113,7 @@ If racing is added in the future, you would be able to bet many things (see belo
 profile race will bet on a pink slip (the ownership of the losers car). Racing must be implemented before this can be
 considered.
 
-4. (3)[Unconfirmed] Renting ->
+4. (4)[Unconfirmed] Renting ->
 Perhaps being able to rent a car would help the immersion of the game, yet also allow some players to test cars before
 permanently buying cars (renting will be ingame cash and give the player a 1hour favour of their selected vehicle). Obviously
 rented vehicles won't be able to be modded, customized, or used in specific events (races, derby etc). The possibility for
