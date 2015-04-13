@@ -32,10 +32,13 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *bug where xp bar will visually fill 100% when completing rackets, Walking Styles and Race options added. Also a bug tool*
 *and button remapping!*
 
-*Update here 2.2-2.3)! Miscellaneous animations such as dancing and laughing, bug fixes, Car map marker, Saving outfits,*
+*Update here (2.2-2.3)! Miscellaneous animations such as dancing and laughing, bug fixes, Car map marker, Saving outfits,*
 *Revenge raids, NPC variants and events, working TVs, new NPC variants, More NPC events, Warning when your demolish, AI*
 *awareness system improves, Overlay names for weapon, Skill indicators, vehicle and location, Buffing Exports, Crime*
 *Scene Revamps and racket participation added!*
+
+*Update here (2.4)! Small update that fixes typos, a few more bugs, Bloody faces/body included for all enemy models and car*
+*radio song expansion added!*
 
 
 - **THREAD STARTS HERE!**
@@ -127,6 +130,10 @@ players to rent their vehicles to other players would be nice too.
  5. (2)[Unconfirmed] Player Vehicle marker on minimap/map ->
 Another simple yet useful feature that will allow players to see where they last left their vehicle. Unconfirmed at the
 current time.
+
+ 6. (5)[Unconfirmed] Car Radio Expanded ->
+Adding more songs to the car radio and allowing players to stream or add their own music will make the driving experience of
+TW more fun and personalized. A seemingly unnecessary but nice feature to have. 
 
 - *Weapons and Customization:*
 - 
@@ -244,6 +251,11 @@ Visually, make it so that a few of their affiliated gang members are hanging aro
 mementos scattered about, incense burning and maybe have a picture of their avatar on the memorial wreath. This would make
 the mechanic a lot more "impactful" to the player, as it is a much more stimulating and active experience than just seeing a
 chalk outline and moving on.
+
+ 18. (5)[Unconfirmed] Bloody decals for all character models (thanks to FXgaming) ->
+At the current time, it seems that the only character models that will get bloody when they die or are beaten up is the model
+used by NPC Gwennyd and reinforcement npcs. Expanding this feature to all enemy (police too) models will enhance the
+brutality of the TW world and be a visual improvement to the game.
 
 - *Safehouse, Furniture and Customization:*
 - 
