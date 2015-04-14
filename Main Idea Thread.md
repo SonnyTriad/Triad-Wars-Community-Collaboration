@@ -40,6 +40,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *Update here (2.4)! Small update that fixes typos, a few more bugs, Bloody faces/body included for all enemy models and car*
 *radio song expansion added!*
 
+*Update here (2.5)! Update for weapon customization that allows players to change reticles, headbox hitboxes fixed, bug*
+*fixes, armour cosmetics and different types of vehicles added!* 
 
 - **THREAD STARTS HERE!**
 
@@ -103,10 +105,10 @@ indicating that you are able to browse through the skill set would be sufficient
 -
 
  1. (4)[Unconfirmed] Greater range of Vehicles ->
-Pedal bikes, boats, more cars etc need to be added. Wether this is by the community (read post towards the end) or the devs
-doesn't really matter at the current time. One thing that will need to be added though, is 2-3 cars which can be bought with
-a large sum of cash rather than gold. Once fine tuning of driving controls is fixed, this should move further up in
-priority. No words from the devs yet.
+Pedal bikes, boats, jet skis, more cars etc need to be added. Wether this is by the community (read post towards the end) or
+the devs doesn't really matter at the current time. One thing that will need to be added though, is 2-3 cars which can be
+bought with a large sum of cash rather than gold. Once fine tuning of driving controls is fixed, this should move further up
+in priority. No words from the devs yet.
 
  2. (3)[Unconfirmed] Modifying Vehicles ->
 Another highly requested addition by the community, being able modify and make your own one of a kind vehicle (appearance
@@ -151,6 +153,10 @@ currently of upcoming weapons.
 customize your weapons with colors, decals and perhaps even some property changing mods, such as laser sights, muzzles and
 stocks. Silencers would also be added if stealth mode is released (missions and gamemodes) No words from the Devs on this
 yet.
+
+ 3. (5)[Unconfirmed] Reticle change ->
+Adding an option to change your reticle (whether paid or not) will allow players to fully customize their gaming experience
+and fix issues where the default reticle can be hard to see. No confirmation yet.
 
 - *Balances, Tuning and/or Reworks:*
 -
