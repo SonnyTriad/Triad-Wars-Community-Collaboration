@@ -565,7 +565,7 @@ making you have to restart.
 During raids, it is possible to jump from the top of one building to another. While this seems like a cool feature, you can
 jump onto not yet completed rackets, breaking the raid or getting you stuck.
  
- 8. (1)[Unconfirmed] Dying whilst Meleeing enemy Enforcer ->
+ 8. (1)[Fixed] Dying whilst Meleeing enemy Enforcer ->
 Another rare bug that has happened to few people, where meleeing an enforcer (dosen't matter your hp) you will instantly die.
  
  9. (3)[Unconfirmed] Kicking/Ramming an NPC through a wall ->
@@ -585,7 +585,7 @@ on the ground (NPC is instant killed).
  13. (1)[Unconfirmed] Bug Submission Through Game ->
 Just a simple tool added to game menu that allows players to submit bugs, exploits and other issues they find.
 
- 14. (1)[Unconfirmed] NPcs during raids (rackets) will stand still for a few seconds ->
+ 14. (1)[Fixed] NPcs during raids (rackets) will stand still for a few seconds ->
 This allows players to clear racket floors before the npcs even have a chance to react. This dosent happen to all rackets and
 floors, but is still a big problem.
 
