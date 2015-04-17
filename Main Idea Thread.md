@@ -43,6 +43,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *Update here (2.5)! Update for weapon customization that allows players to change reticles, headbox hitboxes fixed, bug*
 *fixes, armour cosmetics and different types of vehicles added!* 
 
+*Update here (2.6-2.7)! Many bugs ticked off as fixed, Hud overlay fixed
+
 - **THREAD STARTS HERE!**
 
 
@@ -588,6 +590,10 @@ Just a simple tool added to game menu that allows players to submit bugs, exploi
  14. (1)[Fixed] NPcs during raids (rackets) will stand still for a few seconds ->
 This allows players to clear racket floors before the npcs even have a chance to react. This dosent happen to all rackets and
 floors, but is still a big problem.
+
+ 15. (2)[Unconfirmed] Rival refresh in vehicle ->
+A rare yet annoying bug, when using rival refresh in a vehicle makes the player fall through the ground. They then need to
+relog onto TW to fix it.
 
 
 - *Triad and NPCS:*
