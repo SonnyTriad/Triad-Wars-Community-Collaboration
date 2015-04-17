@@ -43,7 +43,7 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 *Update here (2.5)! Update for weapon customization that allows players to change reticles, headbox hitboxes fixed, bug*
 *fixes, armour cosmetics and different types of vehicles added!* 
 
-*Update here (2.6-2.7)! Many bugs ticked off as fixed, Hud overlay fixed
+*Update here (2.6-2.7)! Many bugs ticked off as fixed, Hud overlay fixed*
 
 - **THREAD STARTS HERE!**
 
