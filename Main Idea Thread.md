@@ -45,6 +45,8 @@ requested by the community, 5 being very low in priority, but a nice addition fu
 
 *Update here (2.6-2.7)! Many bugs ticked off as fixed, Hud overlay fixed*
 
+*Update here (2.8)! Priority fixes, Missions added and raid balances!*
+
 - **THREAD STARTS HERE!**
 
 
@@ -265,6 +267,11 @@ At the current time, it seems that the only character models that will get blood
 used by NPC Gwennyd and reinforcement npcs. Expanding this feature to all enemy (police too) models will enhance the
 brutality of the TW world and be a visual improvement to the game.
 
+ 19. (1)[Unconfirmed] Balanced Raids ->
+A balance/reword for raids desperately needs to be implemented. At the moment the only difficulty encountered is time
+restraints. To make the game more fun and feel much more rewarding, raids should be hard due to being outnumbered, fighting
+smart npcs and decent damage done by npcs, rather than just killing them all with ease within a select time.
+ 
 - *Safehouse, Furniture and Customization:*
 - 
 
@@ -722,7 +729,7 @@ Options for traffic on and off, modded or unmodded cars and whether weapons are 
 on a post (sorry cant remember your name) about a footrace with implemented parkour, this also sounds great, and can be bet
 on the same way (just not with pink slips).
 
- 4. (5)[Unconfirmed] PVP??? ->
+ 4. (2)[Unconfirmed] PVP??? ->
 PVP due to a large number of requests was just simply so hard to imagine in the Sleeping Dogs engine, so I improvised. A
 workaround for 'perma-counters' Would be PVP in a closed map (let's just say the size of a turf right now) between a select
 number of people, In a fight club or defending a raid. Melee is disabled, letting your character only shoot and melee with
