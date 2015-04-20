@@ -270,7 +270,9 @@ brutality of the TW world and be a visual improvement to the game.
  19. (1)[Unconfirmed] Balanced Raids ->
 A balance/reword for raids desperately needs to be implemented. At the moment the only difficulty encountered is time
 restraints. To make the game more fun and feel much more rewarding, raids should be hard due to being outnumbered, fighting
-smart npcs and decent damage done by npcs, rather than just killing them all with ease within a select time.
+smart npcs and decent damage done by npcs, rather than just killing them all with ease within a select time. The Time limiter
+at the moment is just incredibly annoying, perhaps bringing in reinforcements or police once the timer is up would help to
+make the game feel more realistic and immersive, rather than just limited in its features.
  
 - *Safehouse, Furniture and Customization:*
 - 
